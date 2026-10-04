@@ -1,0 +1,6562 @@
+[
+  {
+    "english": "a type of acacia tree",
+    "hadiyyisa": "wacogirara"
+  },
+  {
+    "english": "aardvark",
+    "hadiyyisa": "bugodichcho"
+  },
+  {
+    "english": "abacus",
+    "hadiyyisa": "abakasa"
+  },
+  {
+    "english": "abandon",
+    "hadiyyisa": "u'nni bee'an ihukko"
+  },
+  {
+    "english": "abandoned, be",
+    "hadiyyisa": "xoqolamukko"
+  },
+  {
+    "english": "abbreviation",
+    "hadiyyisa": "qonco'i sagara"
+  },
+  {
+    "english": "abdomen",
+    "hadiyyisa": "godabo"
+  },
+  {
+    "english": "abdominal disease",
+    "hadiyyisa": "godaphphi jabbo"
+  },
+  {
+    "english": "abhor",
+    "hadiyyisa": "shuushjora"
+  },
+  {
+    "english": "ability",
+    "hadiyyisa": "xanato"
+  },
+  {
+    "english": "able",
+    "hadiyyisa": "xanoohane"
+  },
+  {
+    "english": "able, be",
+    "hadiyyisa": "tawukko"
+  },
+  {
+    "english": "ablution",
+    "hadiyyisa": "haybana"
+  },
+  {
+    "english": "abolish",
+    "hadiyyisa": "diffaa'ukko"
+  },
+  {
+    "english": "abolished, be",
+    "hadiyyisa": "diffukko"
+  },
+  {
+    "english": "aborted",
+    "hadiyyisa": "godaphphisa ikko'o"
+  },
+  {
+    "english": "abortion",
+    "hadiyyisa": "kara"
+  },
+  {
+    "english": "abortive",
+    "hadiyyisa": "bisima"
+  },
+  {
+    "english": "about",
+    "hadiyyisa": "kululleeta"
+  },
+  {
+    "english": "above",
+    "hadiyyisa": "hanaan"
+  },
+  {
+    "english": "abroad",
+    "hadiyyisa": "baahara"
+  },
+  {
+    "english": "abscess",
+    "hadiyyisa": "abseessa"
+  },
+  {
+    "english": "abscesses, get",
+    "hadiyyisa": "aballukko"
+  },
+  {
+    "english": "absence",
+    "hadiyyisa": "siidamubee'ane hosimma"
+  },
+  {
+    "english": "absent, be",
+    "hadiyyisa": "bee'ukko"
+  },
+  {
+    "english": "absent minded",
+    "hadiyyisa": "jalaga"
+  },
+  {
+    "english": "absolute",
+    "hadiyyisa": "absoluuta"
+  },
+  {
+    "english": "absorb",
+    "hadiyyisa": "muggisukko"
+  },
+  {
+    "english": "abstract",
+    "hadiyyisa": "absitraakta"
+  },
+  {
+    "english": "abundance",
+    "hadiyyisa": "duta"
+  },
+  {
+    "english": "abuse",
+    "hadiyyisa": "duuncha"
+  },
+  {
+    "english": "abuser",
+    "hadiyyisa": "wowwoqaancho"
+  },
+  {
+    "english": "acacia tree",
+    "hadiyyisa": "giraara"
+  },
+  {
+    "english": "accelerate",
+    "hadiyyisa": "jaataaneessukko"
+  },
+  {
+    "english": "accept",
+    "hadiyyisa": "aa'ukko"
+  },
+  {
+    "english": "accident",
+    "hadiyyisa": "ajala"
+  },
+  {
+    "english": "accidentally",
+    "hadiyyisa": "dangonne"
+  },
+  {
+    "english": "accommodation",
+    "hadiyyisa": "usheexxaxxi beyyo"
+  },
+  {
+    "english": "accompany",
+    "hadiyyisa": "awwonukko"
+  },
+  {
+    "english": "accomplish",
+    "hadiyyisa": "wonshukko"
+  },
+  {
+    "english": "accomplishment",
+    "hadiyyisa": "bax misha"
+  },
+  {
+    "english": "according to",
+    "hadiyyisa": "ka'isinne"
+  },
+  {
+    "english": "accordion",
+    "hadiyyisa": "akoordo'o"
+  },
+  {
+    "english": "accumulate",
+    "hadiyyisa": "ceecukko"
+  },
+  {
+    "english": "accumulation",
+    "hadiyyisa": "boochcha"
+  },
+  {
+    "english": "accusation",
+    "hadiyyisa": "weeshishsha"
+  },
+  {
+    "english": "accuse",
+    "hadiyyisa": "weeshukko"
+  },
+  {
+    "english": "accuser",
+    "hadiyyisa": "weeshaancho"
+  },
+  {
+    "english": "accustom",
+    "hadiyyisa": "losamukko"
+  },
+  {
+    "english": "ache",
+    "hadiyyisa": "lashsho'o"
+  },
+  {
+    "english": "achieve",
+    "hadiyyisa": "tumukko"
+  },
+  {
+    "english": "acid",
+    "hadiyyisa": "asiida"
+  },
+  {
+    "english": "acidic soil",
+    "hadiyyisa": "asiidaam buchcha"
+  },
+  {
+    "english": "acquire",
+    "hadiyyisa": "siixxukko"
+  },
+  {
+    "english": "acrobat",
+    "hadiyyisa": "akrobaata"
+  },
+  {
+    "english": "across",
+    "hadiyyisa": "dufite"
+  },
+  {
+    "english": "action",
+    "hadiyyisa": "baxi moo'isimma"
+  },
+  {
+    "english": "active",
+    "hadiyyisa": "faare'aalla"
+  },
+  {
+    "english": "activity",
+    "hadiyyisa": "baxi moo'isimma"
+  },
+  {
+    "english": "actor",
+    "hadiyyisa": "kadoohane"
+  },
+  {
+    "english": "actual",
+    "hadiyyisa": "hirga"
+  },
+  {
+    "english": "Adam's apple",
+    "hadiyyisa": "loomme'e"
+  },
+  {
+    "english": "adapt",
+    "hadiyyisa": "losukko"
+  },
+  {
+    "english": "add",
+    "hadiyyisa": "edukko"
+  },
+  {
+    "english": "addition, in",
+    "hadiyyisa": "kanninne maqire"
+  },
+  {
+    "english": "additional",
+    "hadiyyisa": "edamaakkoohane"
+  },
+  {
+    "english": "address",
+    "hadiyyisa": "ga'nna"
+  },
+  {
+    "english": "adhesive",
+    "hadiyyisa": "amaxxansaancho"
+  },
+  {
+    "english": "adjacent",
+    "hadiyyisa": "midaadmidaado"
+  },
+  {
+    "english": "adjective",
+    "hadiyyisa": "caakkisaancho"
+  },
+  {
+    "english": "adjust",
+    "hadiyyisa": "xabbaaşukko"
+  },
+  {
+    "english": "administration",
+    "hadiyyisa": "gassa"
+  },
+  {
+    "english": "administrator",
+    "hadiyyisa": "gassaancho"
+  },
+  {
+    "english": "admire",
+    "hadiyyisa": "birshukko"
+  },
+  {
+    "english": "admit",
+    "hadiyyisa": "amma'nnukko"
+  },
+  {
+    "english": "admonish",
+    "hadiyyisa": "aransukko"
+  },
+  {
+    "english": "adolescence",
+    "hadiyyisa": "woraaddano"
+  },
+  {
+    "english": "adolescent",
+    "hadiyyisa": "woraadichcho"
+  },
+  {
+    "english": "adopt, be",
+    "hadiyyisa": "sikitamukko"
+  },
+  {
+    "english": "adore",
+    "hadiyyisa": "otossukko"
+  },
+  {
+    "english": "adorn",
+    "hadiyyisa": "dansukko"
+  },
+  {
+    "english": "adult",
+    "hadiyyisa": "adalta"
+  },
+  {
+    "english": "adulterer",
+    "hadiyyisa": "saa'aancho"
+  },
+  {
+    "english": "adultery, commit",
+    "hadiyyisa": "saa'ukko"
+  },
+  {
+    "english": "advance",
+    "hadiyyisa": "goollaanchogaassa"
+  },
+  {
+    "english": "advantage",
+    "hadiyyisa": "fatto"
+  },
+  {
+    "english": "adversary",
+    "hadiyyisa": "baaragaara"
+  },
+  {
+    "english": "advertisement",
+    "hadiyyisa": "la'isansimma"
+  },
+  {
+    "english": "advice",
+    "hadiyyisa": "arancho"
+  },
+  {
+    "english": "advise",
+    "hadiyyisa": "sogukko"
+  },
+  {
+    "english": "adviser",
+    "hadiyyisa": "sogaancho"
+  },
+  {
+    "english": "aeroplane",
+    "hadiyyisa": "orophphe'e"
+  },
+  {
+    "english": "affair",
+    "hadiyyisa": "woshsha"
+  },
+  {
+    "english": "affect",
+    "hadiyyisa": "ciimo'ukko"
+  },
+  {
+    "english": "affection",
+    "hadiyyisa": "iitto"
+  },
+  {
+    "english": "affirm",
+    "hadiyyisa": "ekkuyukko"
+  },
+  {
+    "english": "affirmation",
+    "hadiyyisa": "akkuyyaato"
+  },
+  {
+    "english": "afraid, be",
+    "hadiyyisa": "baddukko"
+  },
+  {
+    "english": "after",
+    "hadiyyisa": "lasse"
+  },
+  {
+    "english": "after that",
+    "hadiyyisa": "ee lasage"
+  },
+  {
+    "english": "afterbirth",
+    "hadiyyisa": "maqqera"
+  },
+  {
+    "english": "afternoon",
+    "hadiyyisa": "maaro'i balla"
+  },
+  {
+    "english": "afterwards",
+    "hadiyyisa": "lasage"
+  },
+  {
+    "english": "again",
+    "hadiyyisa": "odim"
+  },
+  {
+    "english": "against",
+    "hadiyyisa": "kollo"
+  },
+  {
+    "english": "age",
+    "hadiyyisa": "umura"
+  },
+  {
+    "english": "age-mate",
+    "hadiyyisa": "gudaano"
+  },
+  {
+    "english": "aggression",
+    "hadiyyisa": "hawwojja"
+  },
+  {
+    "english": "aggressive, be",
+    "hadiyyisa": "mooqukko"
+  },
+  {
+    "english": "agony, be in",
+    "hadiyyisa": "fitifitukko"
+  },
+  {
+    "english": "agree",
+    "hadiyyisa": "eeyyukko"
+  },
+  {
+    "english": "agreement",
+    "hadiyyisa": "simiminnato"
+  },
+  {
+    "english": "agriculture",
+    "hadiyyisa": "abuulla"
+  },
+  {
+    "english": "aid",
+    "hadiyyisa": "hara'mma"
+  },
+  {
+    "english": "air",
+    "hadiyyisa": "ayyara"
+  },
+  {
+    "english": "air pressure",
+    "hadiyyisa": "ayya'l gafechcha"
+  },
+  {
+    "english": "airplane",
+    "hadiyyisa": "aropilaana"
+  },
+  {
+    "english": "alarm",
+    "hadiyyisa": "qoxxisaancho"
+  },
+  {
+    "english": "alarm clock",
+    "hadiyyisa": "baddiso sa'ata"
+  },
+  {
+    "english": "albino",
+    "hadiyyisa": "abballa"
+  },
+  {
+    "english": "alcohol",
+    "hadiyyisa": "alkoola"
+  },
+  {
+    "english": "alert",
+    "hadiyyisa": "bootaara"
+  },
+  {
+    "english": "algae",
+    "hadiyyisa": "shenqeella"
+  },
+  {
+    "english": "alien",
+    "hadiyyisa": "allagga"
+  },
+  {
+    "english": "all",
+    "hadiyyisa": "hunda"
+  },
+  {
+    "english": "allow",
+    "hadiyyisa": "faqqadukko"
+  },
+  {
+    "english": "alms",
+    "hadiyyisa": "tasfo'o"
+  },
+  {
+    "english": "aloe",
+    "hadiyyisa": "gaalokichcho"
+  },
+  {
+    "english": "alone",
+    "hadiyyisa": "mullattem"
+  },
+  {
+    "english": "alphabet",
+    "hadiyyisa": "fida'l gabata"
+  },
+  {
+    "english": "already",
+    "hadiyyisa": "gaassim"
+  },
+  {
+    "english": "also",
+    "hadiyyisa": "qinxim"
+  },
+  {
+    "english": "altitude",
+    "hadiyyisa": "qoffite"
+  },
+  {
+    "english": "always",
+    "hadiyyisa": "hundi ammane"
+  },
+  {
+    "english": "amazement",
+    "hadiyyisa": "maalala"
+  },
+  {
+    "english": "ambush",
+    "hadiyyisa": "duga"
+  },
+  {
+    "english": "amount",
+    "hadiyyisa": "qaxooma"
+  },
+  {
+    "english": "amputate",
+    "hadiyyisa": "sharakaa'ukko"
+  },
+  {
+    "english": "amuse",
+    "hadiyyisa": "tashaa'ukko"
+  },
+  {
+    "english": "ancestor",
+    "hadiyyisa": "annanna"
+  },
+  {
+    "english": "ancient",
+    "hadiyyisa": "gaassi"
+  },
+  {
+    "english": "and",
+    "hadiyyisa": "maqirem"
+  },
+  {
+    "english": "anger",
+    "hadiyyisa": "moqonta"
+  },
+  {
+    "english": "angle",
+    "hadiyyisa": "angila"
+  },
+  {
+    "english": "angry, be",
+    "hadiyyisa": "quuqukko"
+  },
+  {
+    "english": "animal",
+    "hadiyyisa": "soko'o"
+  },
+  {
+    "english": "ankle",
+    "hadiyyisa": "duruma"
+  },
+  {
+    "english": "announce",
+    "hadiyyisa": "alallaatukko"
+  },
+  {
+    "english": "announcement",
+    "hadiyyisa": "alallaato"
+  },
+  {
+    "english": "annoy",
+    "hadiyyisa": "amalukko"
+  },
+  {
+    "english": "another",
+    "hadiyyisa": "mulli"
+  },
+  {
+    "english": "answer",
+    "hadiyyisa": "dabachcha"
+  },
+  {
+    "english": "ant",
+    "hadiyyisa": "cuumcho"
+  },
+  {
+    "english": "antenna",
+    "hadiyyisa": "anteena"
+  },
+  {
+    "english": "anxiety",
+    "hadiyyisa": "kichchechcha"
+  },
+  {
+    "english": "ape",
+    "hadiyyisa": "qamachcho"
+  },
+  {
+    "english": "apostle",
+    "hadiyyisa": "asse'amaancho"
+  },
+  {
+    "english": "appeal",
+    "hadiyyisa": "yigibaagna"
+  },
+  {
+    "english": "appear",
+    "hadiyyisa": "moo'amukko"
+  },
+  {
+    "english": "appearance",
+    "hadiyyisa": "hagara"
+  },
+  {
+    "english": "appetite",
+    "hadiyyisa": "arwa'a"
+  },
+  {
+    "english": "apple",
+    "hadiyyisa": "appila"
+  },
+  {
+    "english": "apply",
+    "hadiyyisa": "baxonne hosukko"
+  },
+  {
+    "english": "appoint",
+    "hadiyyisa": "heebbukko"
+  },
+  {
+    "english": "appointment",
+    "hadiyyisa": "kataro"
+  },
+  {
+    "english": "approach",
+    "hadiyyisa": "hincukko"
+  },
+  {
+    "english": "appropriate",
+    "hadiyyisa": "shiinnaatoohane"
+  },
+  {
+    "english": "approximately",
+    "hadiyyisa": "eeqaxa"
+  },
+  {
+    "english": "arbitrate",
+    "hadiyyisa": "uransukko"
+  },
+  {
+    "english": "archaeology",
+    "hadiyyisa": "arki'oolooje'e"
+  },
+  {
+    "english": "area",
+    "hadiyyisa": "uulla"
+  },
+  {
+    "english": "argue",
+    "hadiyyisa": "fitamukko"
+  },
+  {
+    "english": "argument",
+    "hadiyyisa": "fitancha"
+  },
+  {
+    "english": "arise",
+    "hadiyyisa": "ki'ukko"
+  },
+  {
+    "english": "arithmetic",
+    "hadiyyisa": "artimeetika"
+  },
+  {
+    "english": "arm",
+    "hadiyyisa": "shuuma"
+  },
+  {
+    "english": "armpit",
+    "hadiyyisa": "kikilo"
+  },
+  {
+    "english": "army",
+    "hadiyyisa": "gogota"
+  },
+  {
+    "english": "arrange",
+    "hadiyyisa": "ansaadukko"
+  },
+  {
+    "english": "arrest",
+    "hadiyyisa": "amadiisukko"
+  },
+  {
+    "english": "arrive",
+    "hadiyyisa": "afukko"
+  },
+  {
+    "english": "arrogance",
+    "hadiyyisa": "bolxa"
+  },
+  {
+    "english": "arrow",
+    "hadiyyisa": "boroxa"
+  },
+  {
+    "english": "artery",
+    "hadiyyisa": "arteere'e"
+  },
+  {
+    "english": "artificial",
+    "hadiyyisa": "man baxo"
+  },
+  {
+    "english": "arts",
+    "hadiyyisa": "qoroom baxo"
+  },
+  {
+    "english": "ascend",
+    "hadiyyisa": "firukko"
+  },
+  {
+    "english": "ashes",
+    "hadiyyisa": "gii'l buchcha"
+  },
+  {
+    "english": "ask",
+    "hadiyyisa": "xa'mmukko"
+  },
+  {
+    "english": "asleep, fall",
+    "hadiyyisa": "lenqukko"
+  },
+  {
+    "english": "assemble",
+    "hadiyyisa": "wixxeesukko"
+  },
+  {
+    "english": "assembly",
+    "hadiyyisa": "dummichcha"
+  },
+  {
+    "english": "assign",
+    "hadiyyisa": "beyyukko"
+  },
+  {
+    "english": "assist",
+    "hadiyyisa": "agaagukko"
+  },
+  {
+    "english": "assistance",
+    "hadiyyisa": "hara'mma"
+  },
+  {
+    "english": "assistant",
+    "hadiyyisa": "agaagaancho"
+  },
+  {
+    "english": "association",
+    "hadiyyisa": "sheemmaata"
+  },
+  {
+    "english": "astonish",
+    "hadiyyisa": "maalalukko"
+  },
+  {
+    "english": "astronomy",
+    "hadiyyisa": "astironoome'e"
+  },
+  {
+    "english": "attach",
+    "hadiyyisa": "amadiisukko"
+  },
+  {
+    "english": "attack",
+    "hadiyyisa": "cancanukko"
+  },
+  {
+    "english": "attempt",
+    "hadiyyisa": "yakukko"
+  },
+  {
+    "english": "attitude",
+    "hadiyyisa": "inno'o"
+  },
+  {
+    "english": "attract",
+    "hadiyyisa": "tashaa'ukko"
+  },
+  {
+    "english": "attractive",
+    "hadiyyisa": "danaamo"
+  },
+  {
+    "english": "authority",
+    "hadiyyisa": "dannooma"
+  },
+  {
+    "english": "avocado",
+    "hadiyyisa": "abokaado'o"
+  },
+  {
+    "english": "awake, be",
+    "hadiyyisa": "gachchukko"
+  },
+  {
+    "english": "axe",
+    "hadiyyisa": "meesaana"
+  },
+  {
+    "english": "baboon",
+    "hadiyyisa": "daageechcho"
+  },
+  {
+    "english": "baby",
+    "hadiyyisa": "ciilichcho"
+  },
+  {
+    "english": "back",
+    "hadiyyisa": "afare"
+  },
+  {
+    "english": "backbone",
+    "hadiyyisa": "quruuchcho"
+  },
+  {
+    "english": "background",
+    "hadiyyisa": "hi'nna"
+  },
+  {
+    "english": "bad",
+    "hadiyyisa": "jora"
+  },
+  {
+    "english": "badger",
+    "hadiyyisa": "golonsichcho"
+  },
+  {
+    "english": "badness",
+    "hadiyyisa": "jolle"
+  },
+  {
+    "english": "bag",
+    "hadiyyisa": "borsa"
+  },
+  {
+    "english": "bake",
+    "hadiyyisa": "sarukko"
+  },
+  {
+    "english": "baker",
+    "hadiyyisa": "dubaancho"
+  },
+  {
+    "english": "balance",
+    "hadiyyisa": "akeeka"
+  },
+  {
+    "english": "bald",
+    "hadiyyisa": "booyinnamo"
+  },
+  {
+    "english": "ball",
+    "hadiyyisa": "xorbe'e"
+  },
+  {
+    "english": "bamboo",
+    "hadiyyisa": "leema"
+  },
+  {
+    "english": "banana",
+    "hadiyyisa": "muuza"
+  },
+  {
+    "english": "bandage",
+    "hadiyyisa": "faashsha'a"
+  },
+  {
+    "english": "bank",
+    "hadiyyisa": "baanka"
+  },
+  {
+    "english": "baptism",
+    "hadiyyisa": "xammaqancha"
+  },
+  {
+    "english": "baptize",
+    "hadiyyisa": "xammaqukko"
+  },
+  {
+    "english": "barber",
+    "hadiyyisa": "senneetichcho"
+  },
+  {
+    "english": "bare",
+    "hadiyyisa": "muruga"
+  },
+  {
+    "english": "bark",
+    "hadiyyisa": "hobara"
+  },
+  {
+    "english": "barley",
+    "hadiyyisa": "so'o"
+  },
+  {
+    "english": "basin",
+    "hadiyyisa": "lubaancho"
+  },
+  {
+    "english": "basket",
+    "hadiyyisa": "xoqqe'e"
+  },
+  {
+    "english": "bat",
+    "hadiyyisa": "oggeera"
+  },
+  {
+    "english": "battle",
+    "hadiyyisa": "gaado"
+  },
+  {
+    "english": "be",
+    "hadiyyisa": "ihukko"
+  },
+  {
+    "english": "bean",
+    "hadiyyisa": "wohe'e"
+  },
+  {
+    "english": "bear",
+    "hadiyyisa": "tibbekkichcho"
+  },
+  {
+    "english": "beard",
+    "hadiyyisa": "haareedda"
+  },
+  {
+    "english": "beat",
+    "hadiyyisa": "ganukko"
+  },
+  {
+    "english": "beautiful",
+    "hadiyyisa": "danaamo"
+  },
+  {
+    "english": "beauty",
+    "hadiyyisa": "dano"
+  },
+  {
+    "english": "because",
+    "hadiyyisa": "eebikkina"
+  },
+  {
+    "english": "become",
+    "hadiyyisa": "ihukko"
+  },
+  {
+    "english": "bed",
+    "hadiyyisa": "alga"
+  },
+  {
+    "english": "bedbug",
+    "hadiyyisa": "tukaana"
+  },
+  {
+    "english": "bedroom",
+    "hadiyyisa": "iinse mine"
+  },
+  {
+    "english": "bee",
+    "hadiyyisa": "diishshichcho"
+  },
+  {
+    "english": "beef",
+    "hadiyyisa": "la'l maara"
+  },
+  {
+    "english": "beehive",
+    "hadiyyisa": "diishshisechcho"
+  },
+  {
+    "english": "beer",
+    "hadiyyisa": "xalla"
+  },
+  {
+    "english": "beeswax",
+    "hadiyyisa": "kaashsha"
+  },
+  {
+    "english": "beetle",
+    "hadiyyisa": "diindaa'llicho"
+  },
+  {
+    "english": "before",
+    "hadiyyisa": "illage"
+  },
+  {
+    "english": "beg",
+    "hadiyyisa": "uunxukko"
+  },
+  {
+    "english": "beggar",
+    "hadiyyisa": "uunxataancho"
+  },
+  {
+    "english": "begin",
+    "hadiyyisa": "jammarukko"
+  },
+  {
+    "english": "beginner",
+    "hadiyyisa": "asheeraancho"
+  },
+  {
+    "english": "beginning",
+    "hadiyyisa": "asheera"
+  },
+  {
+    "english": "behind",
+    "hadiyyisa": "lasinne"
+  },
+  {
+    "english": "belch",
+    "hadiyyisa": "dee'achchukko"
+  },
+  {
+    "english": "belief",
+    "hadiyyisa": "amma'nnato"
+  },
+  {
+    "english": "believe",
+    "hadiyyisa": "amma'nnukko"
+  },
+  {
+    "english": "believer",
+    "hadiyyisa": "amma'nnaancho"
+  },
+  {
+    "english": "bell",
+    "hadiyyisa": "doola"
+  },
+  {
+    "english": "bellows",
+    "hadiyyisa": "cana"
+  },
+  {
+    "english": "belly",
+    "hadiyyisa": "godabo"
+  },
+  {
+    "english": "below",
+    "hadiyyisa": "aad"
+  },
+  {
+    "english": "belt",
+    "hadiyyisa": "qabatto'o"
+  },
+  {
+    "english": "bend",
+    "hadiyyisa": "gumbukko"
+  },
+  {
+    "english": "beneficial",
+    "hadiyyisa": "loossukko"
+  },
+  {
+    "english": "benefit",
+    "hadiyyisa": "fatto"
+  },
+  {
+    "english": "bent",
+    "hadiyyisa": "boqqa"
+  },
+  {
+    "english": "berry",
+    "hadiyyisa": "laara"
+  },
+  {
+    "english": "beseech",
+    "hadiyyisa": "shallukko"
+  },
+  {
+    "english": "besides",
+    "hadiyyisa": "kanninne maqire"
+  },
+  {
+    "english": "best",
+    "hadiyyisa": "e'lloohane"
+  },
+  {
+    "english": "betray",
+    "hadiyyisa": "lagukko"
+  },
+  {
+    "english": "better",
+    "hadiyyisa": "e'llukko"
+  },
+  {
+    "english": "between",
+    "hadiyyisa": "lambe'e"
+  },
+  {
+    "english": "beyond",
+    "hadiyyisa": "ido"
+  },
+  {
+    "english": "Bible",
+    "hadiyyisa": "keesammi maxaafa"
+  },
+  {
+    "english": "bicycle",
+    "hadiyyisa": "bishkiliita"
+  },
+  {
+    "english": "big",
+    "hadiyyisa": "geejja"
+  },
+  {
+    "english": "bind",
+    "hadiyyisa": "karukko"
+  },
+  {
+    "english": "biology",
+    "hadiyyisa": "bayooloje'e"
+  },
+  {
+    "english": "bird",
+    "hadiyyisa": "cii'ichcho"
+  },
+  {
+    "english": "birthday",
+    "hadiyyisa": "qaranchi balla"
+  },
+  {
+    "english": "bite",
+    "hadiyyisa": "ga'mmukko"
+  },
+  {
+    "english": "bitter",
+    "hadiyyisa": "qaraare"
+  },
+  {
+    "english": "black",
+    "hadiyyisa": "heemachcha"
+  },
+  {
+    "english": "blackberry",
+    "hadiyyisa": "onjooro'o"
+  },
+  {
+    "english": "blackboard",
+    "hadiyyisa": "heemachchi boorda"
+  },
+  {
+    "english": "blacksmith",
+    "hadiyyisa": "tumaancho"
+  },
+  {
+    "english": "bladder",
+    "hadiyyisa": "baafa"
+  },
+  {
+    "english": "blade",
+    "hadiyyisa": "malaaca"
+  },
+  {
+    "english": "blame",
+    "hadiyyisa": "hingii'llukko"
+  },
+  {
+    "english": "blanket",
+    "hadiyyisa": "bullukko'o"
+  },
+  {
+    "english": "bleed",
+    "hadiyyisa": "xiige'ukko"
+  },
+  {
+    "english": "bless",
+    "hadiyyisa": "maasse'ukko"
+  },
+  {
+    "english": "blessing",
+    "hadiyyisa": "maasso"
+  },
+  {
+    "english": "blind",
+    "hadiyyisa": "qooqa"
+  },
+  {
+    "english": "blood",
+    "hadiyyisa": "xiiga"
+  },
+  {
+    "english": "blood circulation",
+    "hadiyyisa": "xiiqqi do'o"
+  },
+  {
+    "english": "bloom",
+    "hadiyyisa": "fiitukko"
+  },
+  {
+    "english": "blouse",
+    "hadiyyisa": "meenti shamiisa"
+  },
+  {
+    "english": "blow",
+    "hadiyyisa": "ufukko"
+  },
+  {
+    "english": "blue",
+    "hadiyyisa": "korisha"
+  },
+  {
+    "english": "blunt",
+    "hadiyyisa": "juuja"
+  },
+  {
+    "english": "board",
+    "hadiyyisa": "saleeda"
+  },
+  {
+    "english": "boast",
+    "hadiyyisa": "obbolukko"
+  },
+  {
+    "english": "boat",
+    "hadiyyisa": "markaba"
+  },
+  {
+    "english": "body",
+    "hadiyyisa": "orachcho"
+  },
+  {
+    "english": "body temperature",
+    "hadiyyisa": "orachchi iibba"
+  },
+  {
+    "english": "boil",
+    "hadiyyisa": "hufukko"
+  },
+  {
+    "english": "bone",
+    "hadiyyisa": "miqe"
+  },
+  {
+    "english": "book",
+    "hadiyyisa": "kitaaba"
+  },
+  {
+    "english": "bookstore",
+    "hadiyyisa": "kitaaphphi mine"
+  },
+  {
+    "english": "boot",
+    "hadiyyisa": "bootta'a"
+  },
+  {
+    "english": "border",
+    "hadiyyisa": "daanga"
+  },
+  {
+    "english": "born, be",
+    "hadiyyisa": "qaramukko"
+  },
+  {
+    "english": "borrow",
+    "hadiyyisa": "liqaayyukko"
+  },
+  {
+    "english": "bother",
+    "hadiyyisa": "hawwisukko"
+  },
+  {
+    "english": "bottle",
+    "hadiyyisa": "xarmuusa"
+  },
+  {
+    "english": "bottom",
+    "hadiyyisa": "lugumo"
+  },
+  {
+    "english": "bow",
+    "hadiyyisa": "fokkottukko"
+  },
+  {
+    "english": "bowl",
+    "hadiyyisa": "gabata"
+  },
+  {
+    "english": "box",
+    "hadiyyisa": "saaxina"
+  },
+  {
+    "english": "boy",
+    "hadiyyisa": "beeto"
+  },
+  {
+    "english": "bracelet",
+    "hadiyyisa": "naasha"
+  },
+  {
+    "english": "brain",
+    "hadiyyisa": "ciqimaato"
+  },
+  {
+    "english": "branch",
+    "hadiyyisa": "shoga"
+  },
+  {
+    "english": "brave",
+    "hadiyyisa": "gooncho"
+  },
+  {
+    "english": "bread",
+    "hadiyyisa": "daabbo'o"
+  },
+  {
+    "english": "break",
+    "hadiyyisa": "iiqukko"
+  },
+  {
+    "english": "breakfast",
+    "hadiyyisa": "qursa"
+  },
+  {
+    "english": "breast",
+    "hadiyyisa": "anuuna"
+  },
+  {
+    "english": "breastfeed",
+    "hadiyyisa": "iicisukko"
+  },
+  {
+    "english": "breath",
+    "hadiyyisa": "fooshsha"
+  },
+  {
+    "english": "breathe",
+    "hadiyyisa": "fooshshe'ukko"
+  },
+  {
+    "english": "brick",
+    "hadiyyisa": "bolokeeta"
+  },
+  {
+    "english": "bride",
+    "hadiyyisa": "idaayyichcho"
+  },
+  {
+    "english": "bridegroom",
+    "hadiyyisa": "idaayyichcho"
+  },
+  {
+    "english": "bridge",
+    "hadiyyisa": "zaraa'mma"
+  },
+  {
+    "english": "bright",
+    "hadiyyisa": "bolola"
+  },
+  {
+    "english": "bring",
+    "hadiyyisa": "eebukko"
+  },
+  {
+    "english": "broad",
+    "hadiyyisa": "kodaada"
+  },
+  {
+    "english": "broom",
+    "hadiyyisa": "fii'aancho"
+  },
+  {
+    "english": "brother",
+    "hadiyyisa": "abbaayyo"
+  },
+  {
+    "english": "brown",
+    "hadiyyisa": "kuula"
+  },
+  {
+    "english": "brush",
+    "hadiyyisa": "buruusha"
+  },
+  {
+    "english": "bucket",
+    "hadiyyisa": "baallee"
+  },
+  {
+    "english": "buffalo",
+    "hadiyyisa": "boobichcho"
+  },
+  {
+    "english": "build",
+    "hadiyyisa": "gamba'ukko"
+  },
+  {
+    "english": "bull",
+    "hadiyyisa": "ba'ara"
+  },
+  {
+    "english": "bundle",
+    "hadiyyisa": "xaaxukko"
+  },
+  {
+    "english": "burn",
+    "hadiyyisa": "giirukko"
+  },
+  {
+    "english": "burst",
+    "hadiyyisa": "xooqukko"
+  },
+  {
+    "english": "bury",
+    "hadiyyisa": "waammukko"
+  },
+  {
+    "english": "bus",
+    "hadiyyisa": "aatobisa"
+  },
+  {
+    "english": "bush",
+    "hadiyyisa": "haqqa"
+  },
+  {
+    "english": "business",
+    "hadiyyisa": "daddaro"
+  },
+  {
+    "english": "busy",
+    "hadiyyisa": "abaxaama"
+  },
+  {
+    "english": "but",
+    "hadiyyisa": "ihona bagaan"
+  },
+  {
+    "english": "butcher",
+    "hadiyyisa": "haxaarsichcho"
+  },
+  {
+    "english": "butter",
+    "hadiyyisa": "buuro"
+  },
+  {
+    "english": "butterfly",
+    "hadiyyisa": "bilbilaantichcho"
+  },
+  {
+    "english": "buttocks",
+    "hadiyyisa": "tefo"
+  },
+  {
+    "english": "button",
+    "hadiyyisa": "azuraara"
+  },
+  {
+    "english": "buy",
+    "hadiyyisa": "bitaa'ukko"
+  },
+  {
+    "english": "buyer",
+    "hadiyyisa": "bitaa'aancho"
+  },
+  {
+    "english": "cabbage",
+    "hadiyyisa": "shaana"
+  },
+  {
+    "english": "calculate",
+    "hadiyyisa": "shallagukko"
+  },
+  {
+    "english": "calendar",
+    "hadiyyisa": "balla xigaancho"
+  },
+  {
+    "english": "calf",
+    "hadiyyisa": "waataancho"
+  },
+  {
+    "english": "call",
+    "hadiyyisa": "weeshukko"
+  },
+  {
+    "english": "camel",
+    "hadiyyisa": "gaamaalekkichcho"
+  },
+  {
+    "english": "camera",
+    "hadiyyisa": "kaameera'a"
+  },
+  {
+    "english": "camp",
+    "hadiyyisa": "saffara"
+  },
+  {
+    "english": "candle",
+    "hadiyyisa": "shaama"
+  },
+  {
+    "english": "candy",
+    "hadiyyisa": "karameella"
+  },
+  {
+    "english": "cap",
+    "hadiyyisa": "guufo'o"
+  },
+  {
+    "english": "car",
+    "hadiyyisa": "makiina"
+  },
+  {
+    "english": "card",
+    "hadiyyisa": "kaarda"
+  },
+  {
+    "english": "care",
+    "hadiyyisa": "abooyya"
+  },
+  {
+    "english": "carpenter",
+    "hadiyyisa": "shobaancho"
+  },
+  {
+    "english": "carpet",
+    "hadiyyisa": "dakka"
+  },
+  {
+    "english": "carrot",
+    "hadiyyisa": "kaaroota"
+  },
+  {
+    "english": "carry",
+    "hadiyyisa": "iyyukko"
+  },
+  {
+    "english": "cat",
+    "hadiyyisa": "aduuncho"
+  },
+  {
+    "english": "catch",
+    "hadiyyisa": "amadukko"
+  },
+  {
+    "english": "caterpillar",
+    "hadiyyisa": "daquura"
+  },
+  {
+    "english": "cattle",
+    "hadiyyisa": "laro"
+  },
+  {
+    "english": "ceiling",
+    "hadiyyisa": "koorniisa"
+  },
+  {
+    "english": "cell",
+    "hadiyyisa": "foochchillichcho"
+  },
+  {
+    "english": "cemetery",
+    "hadiyyisa": "waammi beyyo"
+  },
+  {
+    "english": "chain",
+    "hadiyyisa": "sansaleta"
+  },
+  {
+    "english": "chair",
+    "hadiyyisa": "barcuma"
+  },
+  {
+    "english": "chalk",
+    "hadiyyisa": "chooka"
+  },
+  {
+    "english": "chameleon",
+    "hadiyyisa": "hungubbichcho"
+  },
+  {
+    "english": "change",
+    "hadiyyisa": "dabassukko"
+  },
+  {
+    "english": "chapter",
+    "hadiyyisa": "usheexxato"
+  },
+  {
+    "english": "character",
+    "hadiyyisa": "amala"
+  },
+  {
+    "english": "charcoal",
+    "hadiyyisa": "shiinsha"
+  },
+  {
+    "english": "chase",
+    "hadiyyisa": "fiigisukko"
+  },
+  {
+    "english": "cheap",
+    "hadiyyisa": "bushaalla"
+  },
+  {
+    "english": "cheat",
+    "hadiyyisa": "qawwiisukko"
+  },
+  {
+    "english": "cheek",
+    "hadiyyisa": "shiine"
+  },
+  {
+    "english": "cheese",
+    "hadiyyisa": "salalo"
+  },
+  {
+    "english": "chemistry",
+    "hadiyyisa": "keemistre'e"
+  },
+  {
+    "english": "chest",
+    "hadiyyisa": "biqe"
+  },
+  {
+    "english": "chew",
+    "hadiyyisa": "iicukko"
+  },
+  {
+    "english": "chicken",
+    "hadiyyisa": "antabaakkichcho"
+  },
+  {
+    "english": "child",
+    "hadiyyisa": "beeto"
+  },
+  {
+    "english": "children",
+    "hadiyyisa": "ooso"
+  },
+  {
+    "english": "chin",
+    "hadiyyisa": "aqeeca"
+  },
+  {
+    "english": "choose",
+    "hadiyyisa": "doo'llukko"
+  },
+  {
+    "english": "church",
+    "hadiyyisa": "xaalooxxi mine"
+  },
+  {
+    "english": "cigarette",
+    "hadiyyisa": "sujaara"
+  },
+  {
+    "english": "circle",
+    "hadiyyisa": "kululleesa"
+  },
+  {
+    "english": "circumcise",
+    "hadiyyisa": "ballachchukko"
+  },
+  {
+    "english": "citizen",
+    "hadiyyisa": "uulbeeto"
+  },
+  {
+    "english": "city",
+    "hadiyyisa": "katama"
+  },
+  {
+    "english": "clan",
+    "hadiyyisa": "moollo"
+  },
+  {
+    "english": "clay",
+    "hadiyyisa": "hara"
+  },
+  {
+    "english": "clean",
+    "hadiyyisa": "muccura"
+  },
+  {
+    "english": "clear",
+    "hadiyyisa": "caakka"
+  },
+  {
+    "english": "clever",
+    "hadiyyisa": "qombila"
+  },
+  {
+    "english": "climb",
+    "hadiyyisa": "firukko"
+  },
+  {
+    "english": "clinic",
+    "hadiyyisa": "kiliniika"
+  },
+  {
+    "english": "close",
+    "hadiyyisa": "xufukko"
+  },
+  {
+    "english": "cloth",
+    "hadiyyisa": "carqa"
+  },
+  {
+    "english": "clothes",
+    "hadiyyisa": "eddechcha"
+  },
+  {
+    "english": "cloud",
+    "hadiyyisa": "duuba"
+  },
+  {
+    "english": "cloudy",
+    "hadiyyisa": "duubaamo"
+  },
+  {
+    "english": "coat",
+    "hadiyyisa": "koota"
+  },
+  {
+    "english": "coffee",
+    "hadiyyisa": "buna"
+  },
+  {
+    "english": "cold",
+    "hadiyyisa": "siggaalla"
+  },
+  {
+    "english": "collect",
+    "hadiyyisa": "wixxukko"
+  },
+  {
+    "english": "college",
+    "hadiyyisa": "kolleejja"
+  },
+  {
+    "english": "colour",
+    "hadiyyisa": "qalama"
+  },
+  {
+    "english": "comb",
+    "hadiyyisa": "shudaqqa"
+  },
+  {
+    "english": "come",
+    "hadiyyisa": "waarukko"
+  },
+  {
+    "english": "command",
+    "hadiyyisa": "ijaajukko"
+  },
+  {
+    "english": "comment",
+    "hadiyyisa": "gooyyukko"
+  },
+  {
+    "english": "community",
+    "hadiyyisa": "minaadaba"
+  },
+  {
+    "english": "companion",
+    "hadiyyisa": "kobichcho"
+  },
+  {
+    "english": "company",
+    "hadiyyisa": "kubbaaniyya"
+  },
+  {
+    "english": "compare",
+    "hadiyyisa": "akeekukko"
+  },
+  {
+    "english": "compensate",
+    "hadiyyisa": "yegeettukko"
+  },
+  {
+    "english": "compete",
+    "hadiyyisa": "fissiixxamukko"
+  },
+  {
+    "english": "competition",
+    "hadiyyisa": "fiisiixxancha"
+  },
+  {
+    "english": "complete",
+    "hadiyyisa": "wonshukko"
+  },
+  {
+    "english": "computer",
+    "hadiyyisa": "kompiyuutera"
+  },
+  {
+    "english": "conclusion",
+    "hadiyyisa": "goollo'o"
+  },
+  {
+    "english": "confess",
+    "hadiyyisa": "amma'nnukko"
+  },
+  {
+    "english": "conflict",
+    "hadiyyisa": "xabo"
+  },
+  {
+    "english": "confuse",
+    "hadiyyisa": "daballaqukko"
+  },
+  {
+    "english": "connect",
+    "hadiyyisa": "edukko"
+  },
+  {
+    "english": "consequence",
+    "hadiyyisa": "lasaancho"
+  },
+  {
+    "english": "construct",
+    "hadiyyisa": "misilukko"
+  },
+  {
+    "english": "container",
+    "hadiyyisa": "saaxina"
+  },
+  {
+    "english": "content",
+    "hadiyyisa": "amaxxa"
+  },
+  {
+    "english": "continue",
+    "hadiyyisa": "awwonansukko"
+  },
+  {
+    "english": "control",
+    "hadiyyisa": "to'aqoxaxxarukko"
+  },
+  {
+    "english": "conversation",
+    "hadiyyisa": "atoorachcha"
+  },
+  {
+    "english": "cook",
+    "hadiyyisa": "sarukko"
+  },
+  {
+    "english": "copper",
+    "hadiyyisa": "madaaba"
+  },
+  {
+    "english": "corn",
+    "hadiyyisa": "boqqolla"
+  },
+  {
+    "english": "corner",
+    "hadiyyisa": "shiine"
+  },
+  {
+    "english": "corpse",
+    "hadiyyisa": "leesha"
+  },
+  {
+    "english": "correct",
+    "hadiyyisa": "aramukko"
+  },
+  {
+    "english": "corridor",
+    "hadiyyisa": "googo"
+  },
+  {
+    "english": "cotton",
+    "hadiyyisa": "fuutto'o"
+  },
+  {
+    "english": "cough",
+    "hadiyyisa": "kuxxisukko"
+  },
+  {
+    "english": "count",
+    "hadiyyisa": "xigukko"
+  },
+  {
+    "english": "country",
+    "hadiyyisa": "uulla"
+  },
+  {
+    "english": "courage",
+    "hadiyyisa": "iggo"
+  },
+  {
+    "english": "courageous",
+    "hadiyyisa": "iggaalla"
+  },
+  {
+    "english": "court",
+    "hadiyyisa": "firdi mine"
+  },
+  {
+    "english": "courtyard",
+    "hadiyyisa": "ootoro"
+  },
+  {
+    "english": "cover",
+    "hadiyyisa": "ifiisukko"
+  },
+  {
+    "english": "cow",
+    "hadiyyisa": "saayya"
+  },
+  {
+    "english": "coward",
+    "hadiyyisa": "baachchaancho"
+  },
+  {
+    "english": "crack",
+    "hadiyyisa": "anamma"
+  },
+  {
+    "english": "crawl",
+    "hadiyyisa": "ankakkarukko"
+  },
+  {
+    "english": "crazy",
+    "hadiyyisa": "machchaarukko"
+  },
+  {
+    "english": "create",
+    "hadiyyisa": "qooccukko"
+  },
+  {
+    "english": "creator",
+    "hadiyyisa": "qooccaancho"
+  },
+  {
+    "english": "creature",
+    "hadiyyisa": "qoocca"
+  },
+  {
+    "english": "credit",
+    "hadiyyisa": "hajiga"
+  },
+  {
+    "english": "crime",
+    "hadiyyisa": "damigo"
+  },
+  {
+    "english": "criminal",
+    "hadiyyisa": "damigaancho"
+  },
+  {
+    "english": "criticize",
+    "hadiyyisa": "gadisukko"
+  },
+  {
+    "english": "crocodile",
+    "hadiyyisa": "naachchichcho"
+  },
+  {
+    "english": "crop",
+    "hadiyyisa": "hurbaata"
+  },
+  {
+    "english": "cross",
+    "hadiyyisa": "masqala"
+  },
+  {
+    "english": "crow",
+    "hadiyyisa": "qooraantichcho"
+  },
+  {
+    "english": "crowd",
+    "hadiyyisa": "hada"
+  },
+  {
+    "english": "cruel",
+    "hadiyyisa": "jora"
+  },
+  {
+    "english": "crush",
+    "hadiyyisa": "harxaxukko"
+  },
+  {
+    "english": "cry",
+    "hadiyyisa": "wi'llukko"
+  },
+  {
+    "english": "cube",
+    "hadiyyisa": "kiyuuba"
+  },
+  {
+    "english": "cucumber",
+    "hadiyyisa": "faranji dabaqula"
+  },
+  {
+    "english": "cultivate",
+    "hadiyyisa": "abuullukko"
+  },
+  {
+    "english": "culture",
+    "hadiyyisa": "seera"
+  },
+  {
+    "english": "cup",
+    "hadiyyisa": "siina"
+  },
+  {
+    "english": "cure",
+    "hadiyyisa": "fayyiisukko"
+  },
+  {
+    "english": "curse",
+    "hadiyyisa": "qangukko"
+  },
+  {
+    "english": "curtain",
+    "hadiyyisa": "maggaarajja"
+  },
+  {
+    "english": "curve",
+    "hadiyyisa": "boqqooqqamma"
+  },
+  {
+    "english": "custom",
+    "hadiyyisa": "woga"
+  },
+  {
+    "english": "cut",
+    "hadiyyisa": "murukko"
+  },
+  {
+    "english": "dagger",
+    "hadiyyisa": "cube'e"
+  },
+  {
+    "english": "daily",
+    "hadiyyisa": "hundem balla"
+  },
+  {
+    "english": "dam",
+    "hadiyyisa": "qoqqoba"
+  },
+  {
+    "english": "damage",
+    "hadiyyisa": "qaayyukko"
+  },
+  {
+    "english": "dance",
+    "hadiyyisa": "lello"
+  },
+  {
+    "english": "dancer",
+    "hadiyyisa": "kadaancho"
+  },
+  {
+    "english": "danger",
+    "hadiyyisa": "hawwo"
+  },
+  {
+    "english": "dare",
+    "hadiyyisa": "iggukko"
+  },
+  {
+    "english": "dark",
+    "hadiyyisa": "tuunso"
+  },
+  {
+    "english": "date",
+    "hadiyyisa": "balla"
+  },
+  {
+    "english": "daughter",
+    "hadiyyisa": "landichcho"
+  },
+  {
+    "english": "dawn",
+    "hadiyyisa": "soodanna"
+  },
+  {
+    "english": "day",
+    "hadiyyisa": "balla"
+  },
+  {
+    "english": "day after tomorrow",
+    "hadiyyisa": "onsoodo"
+  },
+  {
+    "english": "day before yesterday",
+    "hadiyyisa": "oomballa"
+  },
+  {
+    "english": "dead",
+    "hadiyyisa": "leto'i"
+  },
+  {
+    "english": "deaf",
+    "hadiyyisa": "gawwa"
+  },
+  {
+    "english": "dear",
+    "hadiyyisa": "iittommi"
+  },
+  {
+    "english": "death",
+    "hadiyyisa": "leho"
+  },
+  {
+    "english": "debt",
+    "hadiyyisa": "badano"
+  },
+  {
+    "english": "debtor",
+    "hadiyyisa": "badaancho"
+  },
+  {
+    "english": "deceive",
+    "hadiyyisa": "farissukko"
+  },
+  {
+    "english": "decide",
+    "hadiyyisa": "murukko"
+  },
+  {
+    "english": "decision",
+    "hadiyyisa": "murato"
+  },
+  {
+    "english": "declare",
+    "hadiyyisa": "alallaatukko"
+  },
+  {
+    "english": "decrease",
+    "hadiyyisa": "hoffiisukko"
+  },
+  {
+    "english": "deep",
+    "hadiyyisa": "xilla"
+  },
+  {
+    "english": "defeat",
+    "hadiyyisa": "kaa'ukko"
+  },
+  {
+    "english": "defend",
+    "hadiyyisa": "makkatukko"
+  },
+  {
+    "english": "defendant",
+    "hadiyyisa": "weeshamaancho"
+  },
+  {
+    "english": "degree",
+    "hadiyyisa": "digire'e"
+  },
+  {
+    "english": "delay",
+    "hadiyyisa": "dasisukko"
+  },
+  {
+    "english": "deliver",
+    "hadiyyisa": "shee'lukko"
+  },
+  {
+    "english": "delivery",
+    "hadiyyisa": "qaro"
+  },
+  {
+    "english": "demolish",
+    "hadiyyisa": "gindukko"
+  },
+  {
+    "english": "demon",
+    "hadiyyisa": "Sheexaancho"
+  },
+  {
+    "english": "deny",
+    "hadiyyisa": "lagukko"
+  },
+  {
+    "english": "depart",
+    "hadiyyisa": "marukko"
+  },
+  {
+    "english": "descend",
+    "hadiyyisa": "dillukko"
+  },
+  {
+    "english": "describe",
+    "hadiyyisa": "caakkisukko"
+  },
+  {
+    "english": "desert",
+    "hadiyyisa": "baraha'a"
+  },
+  {
+    "english": "desire",
+    "hadiyyisa": "mixukko"
+  },
+  {
+    "english": "desk",
+    "hadiyyisa": "xaraphpheeza"
+  },
+  {
+    "english": "destroy",
+    "hadiyyisa": "bi'isukko"
+  },
+  {
+    "english": "develop",
+    "hadiyyisa": "anshukko"
+  },
+  {
+    "english": "development",
+    "hadiyyisa": "li'ino"
+  },
+  {
+    "english": "devil",
+    "hadiyyisa": "Sheexaancho"
+  },
+  {
+    "english": "dew",
+    "hadiyyisa": "qiibata"
+  },
+  {
+    "english": "dialect",
+    "hadiyyisa": "gattisa"
+  },
+  {
+    "english": "diameter",
+    "hadiyyisa": "diyaameetira"
+  },
+  {
+    "english": "diamond",
+    "hadiyyisa": "daaymenda"
+  },
+  {
+    "english": "diarrhea",
+    "hadiyyisa": "ku'aasa"
+  },
+  {
+    "english": "dictionary",
+    "hadiyyisa": "doona"
+  },
+  {
+    "english": "die",
+    "hadiyyisa": "lehukko"
+  },
+  {
+    "english": "difference",
+    "hadiyyisa": "annannooma"
+  },
+  {
+    "english": "different",
+    "hadiyyisa": "annanna"
+  },
+  {
+    "english": "difficult",
+    "hadiyyisa": "hawwisoohane"
+  },
+  {
+    "english": "difficulty",
+    "hadiyyisa": "hawwo"
+  },
+  {
+    "english": "dig",
+    "hadiyyisa": "hinukko"
+  },
+  {
+    "english": "dinner",
+    "hadiyyisa": "hii'm hurbaata"
+  },
+  {
+    "english": "direction",
+    "hadiyyisa": "duuha'a"
+  },
+  {
+    "english": "dirt",
+    "hadiyyisa": "xuro"
+  },
+  {
+    "english": "dirty",
+    "hadiyyisa": "xuraamo"
+  },
+  {
+    "english": "disappear",
+    "hadiyyisa": "bi'ukko"
+  },
+  {
+    "english": "disappoint",
+    "hadiyyisa": "miiqisukko"
+  },
+  {
+    "english": "discipline",
+    "hadiyyisa": "abga'a"
+  },
+  {
+    "english": "discuss",
+    "hadiyyisa": "atoorarukko"
+  },
+  {
+    "english": "discussion",
+    "hadiyyisa": "atoorachcha"
+  },
+  {
+    "english": "disease",
+    "hadiyyisa": "xisso"
+  },
+  {
+    "english": "dish",
+    "hadiyyisa": "sahina"
+  },
+  {
+    "english": "dislike",
+    "hadiyyisa": "ceemukko"
+  },
+  {
+    "english": "dismiss",
+    "hadiyyisa": "hollukko"
+  },
+  {
+    "english": "dispute",
+    "hadiyyisa": "fitancha"
+  },
+  {
+    "english": "distance",
+    "hadiyyisa": "qee'llo"
+  },
+  {
+    "english": "distinguish",
+    "hadiyyisa": "baanukko"
+  },
+  {
+    "english": "distribute",
+    "hadiyyisa": "baxxansukko"
+  },
+  {
+    "english": "district",
+    "hadiyyisa": "worada"
+  },
+  {
+    "english": "disturb",
+    "hadiyyisa": "hawwisukko"
+  },
+  {
+    "english": "disturbance",
+    "hadiyyisa": "u'nnancha"
+  },
+  {
+    "english": "ditch",
+    "hadiyyisa": "boohe'e"
+  },
+  {
+    "english": "divide",
+    "hadiyyisa": "baxxansukko"
+  },
+  {
+    "english": "division",
+    "hadiyyisa": "qaaxo"
+  },
+  {
+    "english": "divorce",
+    "hadiyyisa": "hollukko"
+  },
+  {
+    "english": "dizzy, feel",
+    "hadiyyisa": "kululukko"
+  },
+  {
+    "english": "do",
+    "hadiyyisa": "issukko"
+  },
+  {
+    "english": "doctor",
+    "hadiyyisa": "doktochchi"
+  },
+  {
+    "english": "document",
+    "hadiyyisa": "sanada"
+  },
+  {
+    "english": "dog",
+    "hadiyyisa": "wishichcho"
+  },
+  {
+    "english": "dollar",
+    "hadiyyisa": "Bira"
+  },
+  {
+    "english": "donkey",
+    "hadiyyisa": "hallichcho"
+  },
+  {
+    "english": "door",
+    "hadiyyisa": "saanqa"
+  },
+  {
+    "english": "doubt",
+    "hadiyyisa": "malukko"
+  },
+  {
+    "english": "dove",
+    "hadiyyisa": "handarekkichcho"
+  },
+  {
+    "english": "down",
+    "hadiyyisa": "aad"
+  },
+  {
+    "english": "dowry",
+    "hadiyyisa": "mu'uta"
+  },
+  {
+    "english": "drag",
+    "hadiyyisa": "gosaasukko"
+  },
+  {
+    "english": "draw",
+    "hadiyyisa": "misilukko"
+  },
+  {
+    "english": "drawer",
+    "hadiyyisa": "saaxina"
+  },
+  {
+    "english": "dream",
+    "hadiyyisa": "haqaawwo"
+  },
+  {
+    "english": "dress",
+    "hadiyyisa": "edde'ukko"
+  },
+  {
+    "english": "drink",
+    "hadiyyisa": "agukko"
+  },
+  {
+    "english": "drip",
+    "hadiyyisa": "tokukko"
+  },
+  {
+    "english": "drive",
+    "hadiyyisa": "ushe'ukko"
+  },
+  {
+    "english": "driver",
+    "hadiyyisa": "ushe'aancho"
+  },
+  {
+    "english": "drop",
+    "hadiyyisa": "ciifa"
+  },
+  {
+    "english": "drought",
+    "hadiyyisa": "asira"
+  },
+  {
+    "english": "drum",
+    "hadiyyisa": "dibbe'e"
+  },
+  {
+    "english": "drunk, become",
+    "hadiyyisa": "dimbukko"
+  },
+  {
+    "english": "dry",
+    "hadiyyisa": "gogaalla"
+  },
+  {
+    "english": "duck",
+    "hadiyyisa": "wo'o waachcha"
+  },
+  {
+    "english": "dumb",
+    "hadiyyisa": "duuda"
+  },
+  {
+    "english": "dung",
+    "hadiyyisa": "oreeta"
+  },
+  {
+    "english": "dust",
+    "hadiyyisa": "buchcha"
+  },
+  {
+    "english": "duty",
+    "hadiyyisa": "qaxaaxa"
+  },
+  {
+    "english": "dwarf",
+    "hadiyyisa": "dinkekichcho"
+  },
+  {
+    "english": "each",
+    "hadiyyisa": "annichchi annichchim"
+  },
+  {
+    "english": "eagle",
+    "hadiyyisa": "hishshammachcho"
+  },
+  {
+    "english": "ear",
+    "hadiyyisa": "macce"
+  },
+  {
+    "english": "early",
+    "hadiyyisa": "sira"
+  },
+  {
+    "english": "earth",
+    "hadiyyisa": "uulla"
+  },
+  {
+    "english": "east",
+    "hadiyyisa": "eelliinchi fira"
+  },
+  {
+    "english": "easy",
+    "hadiyyisa": "sholle'aalla"
+  },
+  {
+    "english": "eat",
+    "hadiyyisa": "itukko"
+  },
+  {
+    "english": "edge",
+    "hadiyyisa": "tochcho"
+  },
+  {
+    "english": "educate",
+    "hadiyyisa": "losisukko"
+  },
+  {
+    "english": "education",
+    "hadiyyisa": "losano"
+  },
+  {
+    "english": "egg",
+    "hadiyyisa": "quunqa"
+  },
+  {
+    "english": "eight",
+    "hadiyyisa": "sadeento"
+  },
+  {
+    "english": "elbow",
+    "hadiyyisa": "tunku'lla"
+  },
+  {
+    "english": "elder",
+    "hadiyyisa": "lommancho"
+  },
+  {
+    "english": "elect",
+    "hadiyyisa": "doo'llukko"
+  },
+  {
+    "english": "election",
+    "hadiyyisa": "doo'llo'o"
+  },
+  {
+    "english": "electricity",
+    "hadiyyisa": "elektiriiksite'e"
+  },
+  {
+    "english": "elephant",
+    "hadiyyisa": "daaneechcho"
+  },
+  {
+    "english": "eleven",
+    "hadiyyisa": "tommoo mato"
+  },
+  {
+    "english": "embrace",
+    "hadiyyisa": "qaaphphukko"
+  },
+  {
+    "english": "empty",
+    "hadiyyisa": "koma"
+  },
+  {
+    "english": "encourage",
+    "hadiyyisa": "qoxxisukko"
+  },
+  {
+    "english": "end",
+    "hadiyyisa": "lasaancho"
+  },
+  {
+    "english": "enemy",
+    "hadiyyisa": "diina'a"
+  },
+  {
+    "english": "energy",
+    "hadiyyisa": "enerje'e"
+  },
+  {
+    "english": "enough",
+    "hadiyyisa": "iho"
+  },
+  {
+    "english": "ensete",
+    "hadiyyisa": "weesa"
+  },
+  {
+    "english": "enter",
+    "hadiyyisa": "aagukko"
+  },
+  {
+    "english": "equal",
+    "hadiyyisa": "gudaancho"
+  },
+  {
+    "english": "erase",
+    "hadiyyisa": "laaphphisa"
+  },
+  {
+    "english": "escape",
+    "hadiyyisa": "xorukko"
+  },
+  {
+    "english": "evening",
+    "hadiyyisa": "maaro'o"
+  },
+  {
+    "english": "evil",
+    "hadiyyisa": "jora"
+  },
+  {
+    "english": "examination",
+    "hadiyyisa": "fatana"
+  },
+  {
+    "english": "examine",
+    "hadiyyisa": "keenukko"
+  },
+  {
+    "english": "example",
+    "hadiyyisa": "kobi'llato"
+  },
+  {
+    "english": "exchange",
+    "hadiyyisa": "dabassukko"
+  },
+  {
+    "english": "excuse",
+    "hadiyyisa": "urimmi hige"
+  },
+  {
+    "english": "exercise",
+    "hadiyyisa": "losixxa"
+  },
+  {
+    "english": "exist",
+    "hadiyyisa": "hee'ukko"
+  },
+  {
+    "english": "exit",
+    "hadiyyisa": "firukko"
+  },
+  {
+    "english": "expensive",
+    "hadiyyisa": "wudda"
+  },
+  {
+    "english": "explain",
+    "hadiyyisa": "caakkisukko"
+  },
+  {
+    "english": "explode",
+    "hadiyyisa": "xooqukko"
+  },
+  {
+    "english": "eye",
+    "hadiyyisa": "ille"
+  },
+  {
+    "english": "eyebrow",
+    "hadiyyisa": "deemma"
+  },
+  {
+    "english": "face",
+    "hadiyyisa": "miine"
+  },
+  {
+    "english": "factory",
+    "hadiyyisa": "faabiriika"
+  },
+  {
+    "english": "fail",
+    "hadiyyisa": "fussukko"
+  },
+  {
+    "english": "faith",
+    "hadiyyisa": "amma'nno"
+  },
+  {
+    "english": "fall",
+    "hadiyyisa": "ubukko"
+  },
+  {
+    "english": "false",
+    "hadiyyisa": "qophphano"
+  },
+  {
+    "english": "family",
+    "hadiyyisa": "abaroosa"
+  },
+  {
+    "english": "famine",
+    "hadiyyisa": "qaanne'e"
+  },
+  {
+    "english": "famous",
+    "hadiyyisa": "la'amma"
+  },
+  {
+    "english": "far",
+    "hadiyyisa": "qee'llo"
+  },
+  {
+    "english": "farm",
+    "hadiyyisa": "abuulla"
+  },
+  {
+    "english": "farmer",
+    "hadiyyisa": "abuullaancho"
+  },
+  {
+    "english": "fast",
+    "hadiyyisa": "gaaggaaba"
+  },
+  {
+    "english": "fasten",
+    "hadiyyisa": "karukko"
+  },
+  {
+    "english": "fat",
+    "hadiyyisa": "di'ira"
+  },
+  {
+    "english": "father",
+    "hadiyyisa": "anna"
+  },
+  {
+    "english": "fear",
+    "hadiyyisa": "baddukko"
+  },
+  {
+    "english": "feather",
+    "hadiyyisa": "baalle'e"
+  },
+  {
+    "english": "feed",
+    "hadiyyisa": "itisukko"
+  },
+  {
+    "english": "feel",
+    "hadiyyisa": "nakkansukko"
+  },
+  {
+    "english": "female",
+    "hadiyyisa": "mashara"
+  },
+  {
+    "english": "fence",
+    "hadiyyisa": "oota"
+  },
+  {
+    "english": "festival",
+    "hadiyyisa": "uguda"
+  },
+  {
+    "english": "fetch",
+    "hadiyyisa": "inkiirukko"
+  },
+  {
+    "english": "fever",
+    "hadiyyisa": "orachchi iibba"
+  },
+  {
+    "english": "few",
+    "hadiyyisa": "hoffane"
+  },
+  {
+    "english": "field",
+    "hadiyyisa": "maasa"
+  },
+  {
+    "english": "fight",
+    "hadiyyisa": "oramukko"
+  },
+  {
+    "english": "fill",
+    "hadiyyisa": "wonshukko"
+  },
+  {
+    "english": "film",
+    "hadiyyisa": "filma"
+  },
+  {
+    "english": "filter",
+    "hadiyyisa": "illaansukko"
+  },
+  {
+    "english": "find",
+    "hadiyyisa": "siixxukko"
+  },
+  {
+    "english": "fine",
+    "hadiyyisa": "danaamo"
+  },
+  {
+    "english": "finger",
+    "hadiyyisa": "maxxaara"
+  },
+  {
+    "english": "fingernail",
+    "hadiyyisa": "xuranqa"
+  },
+  {
+    "english": "finish",
+    "hadiyyisa": "guullukko"
+  },
+  {
+    "english": "fire",
+    "hadiyyisa": "giira"
+  },
+  {
+    "english": "firewood",
+    "hadiyyisa": "gii'l haqqa"
+  },
+  {
+    "english": "first",
+    "hadiyyisa": "luxxane"
+  },
+  {
+    "english": "fish",
+    "hadiyyisa": "qurxummekichcho"
+  },
+  {
+    "english": "fist",
+    "hadiyyisa": "tomtoomma"
+  },
+  {
+    "english": "five",
+    "hadiyyisa": "onto"
+  },
+  {
+    "english": "flag",
+    "hadiyyisa": "baandira"
+  },
+  {
+    "english": "flame",
+    "hadiyyisa": "labana"
+  },
+  {
+    "english": "flat",
+    "hadiyyisa": "cebba"
+  },
+  {
+    "english": "flay",
+    "hadiyyisa": "coo'ukko"
+  },
+  {
+    "english": "flea",
+    "hadiyyisa": "kora"
+  },
+  {
+    "english": "flee",
+    "hadiyyisa": "gibukko"
+  },
+  {
+    "english": "flood",
+    "hadiyyisa": "dirisa"
+  },
+  {
+    "english": "floor",
+    "hadiyyisa": "gaxa"
+  },
+  {
+    "english": "flour",
+    "hadiyyisa": "bullo"
+  },
+  {
+    "english": "flow",
+    "hadiyyisa": "cururukko"
+  },
+  {
+    "english": "flower",
+    "hadiyyisa": "fiita"
+  },
+  {
+    "english": "flute",
+    "hadiyyisa": "fiiloolee"
+  },
+  {
+    "english": "fly",
+    "hadiyyisa": "bararukko"
+  },
+  {
+    "english": "foam",
+    "hadiyyisa": "himba"
+  },
+  {
+    "english": "fog",
+    "hadiyyisa": "duuba"
+  },
+  {
+    "english": "fold",
+    "hadiyyisa": "qinxukko"
+  },
+  {
+    "english": "follow",
+    "hadiyyisa": "awwonukko"
+  },
+  {
+    "english": "food",
+    "hadiyyisa": "hurbaata"
+  },
+  {
+    "english": "fool",
+    "hadiyyisa": "qawwa"
+  },
+  {
+    "english": "foot",
+    "hadiyyisa": "lokko"
+  },
+  {
+    "english": "forbid",
+    "hadiyyisa": "seerukko"
+  },
+  {
+    "english": "force",
+    "hadiyyisa": "gidda"
+  },
+  {
+    "english": "forehead",
+    "hadiyyisa": "miine"
+  },
+  {
+    "english": "foreign",
+    "hadiyyisa": "allagga"
+  },
+  {
+    "english": "forest",
+    "hadiyyisa": "haqqa"
+  },
+  {
+    "english": "forget",
+    "hadiyyisa": "xadukko"
+  },
+  {
+    "english": "forgive",
+    "hadiyyisa": "maarukko"
+  },
+  {
+    "english": "forgiveness",
+    "hadiyyisa": "haafite"
+  },
+  {
+    "english": "fork",
+    "hadiyyisa": "shukka'a"
+  },
+  {
+    "english": "four",
+    "hadiyyisa": "sooro"
+  },
+  {
+    "english": "fox",
+    "hadiyyisa": "wengereellichcho"
+  },
+  {
+    "english": "free",
+    "hadiyyisa": "wolaba"
+  },
+  {
+    "english": "freedom",
+    "hadiyyisa": "wolabbano"
+  },
+  {
+    "english": "freeze",
+    "hadiyyisa": "jallukko"
+  },
+  {
+    "english": "fresh",
+    "hadiyyisa": "qacale'e"
+  },
+  {
+    "english": "friend",
+    "hadiyyisa": "beshichcho"
+  },
+  {
+    "english": "friendship",
+    "hadiyyisa": "beshooma"
+  },
+  {
+    "english": "frighten",
+    "hadiyyisa": "baddisukko"
+  },
+  {
+    "english": "frog",
+    "hadiyyisa": "ambu'la"
+  },
+  {
+    "english": "front",
+    "hadiyyisa": "miimma"
+  },
+  {
+    "english": "fruit",
+    "hadiyyisa": "misha"
+  },
+  {
+    "english": "fry",
+    "hadiyyisa": "goodukko"
+  },
+  {
+    "english": "full",
+    "hadiyyisa": "wo'mma"
+  },
+  {
+    "english": "funeral",
+    "hadiyyisa": "waamma"
+  },
+  {
+    "english": "future",
+    "hadiyyisa": "lasaqqane"
+  },
+  {
+    "english": "game",
+    "hadiyyisa": "lello"
+  },
+  {
+    "english": "garden",
+    "hadiyyisa": "duubkaashsha"
+  },
+  {
+    "english": "garlic",
+    "hadiyyisa": "tuma"
+  },
+  {
+    "english": "gas",
+    "hadiyyisa": "gaasa"
+  },
+  {
+    "english": "gather",
+    "hadiyyisa": "wixxaa'ukko"
+  },
+  {
+    "english": "gazelle",
+    "hadiyyisa": "saarokkichcho"
+  },
+  {
+    "english": "generation",
+    "hadiyyisa": "qarimo'o"
+  },
+  {
+    "english": "generous",
+    "hadiyyisa": "biijaalla"
+  },
+  {
+    "english": "germ",
+    "hadiyyisa": "jarma"
+  },
+  {
+    "english": "get",
+    "hadiyyisa": "siidukko"
+  },
+  {
+    "english": "ghost",
+    "hadiyyisa": "ayyaana"
+  },
+  {
+    "english": "giant",
+    "hadiyyisa": "biime'e"
+  },
+  {
+    "english": "gift",
+    "hadiyyisa": "uwwicha"
+  },
+  {
+    "english": "ginger",
+    "hadiyyisa": "jaanjibeela"
+  },
+  {
+    "english": "giraffe",
+    "hadiyyisa": "weergaanje"
+  },
+  {
+    "english": "girl",
+    "hadiyyisa": "landichcho"
+  },
+  {
+    "english": "give",
+    "hadiyyisa": "uwwukko"
+  },
+  {
+    "english": "glad",
+    "hadiyyisa": "liirancha"
+  },
+  {
+    "english": "glass",
+    "hadiyyisa": "burcuqo'o"
+  },
+  {
+    "english": "glove",
+    "hadiyyisa": "guwaanta"
+  },
+  {
+    "english": "glue",
+    "hadiyyisa": "amaxxansaancho"
+  },
+  {
+    "english": "gnat",
+    "hadiyyisa": "cimbe'e"
+  },
+  {
+    "english": "go",
+    "hadiyyisa": "marukko"
+  },
+  {
+    "english": "goat",
+    "hadiyyisa": "fellakichcho"
+  },
+  {
+    "english": "God",
+    "hadiyyisa": "Waa'a"
+  },
+  {
+    "english": "gold",
+    "hadiyyisa": "worqa"
+  },
+  {
+    "english": "good",
+    "hadiyyisa": "danaamo"
+  },
+  {
+    "english": "goodness",
+    "hadiyyisa": "dano"
+  },
+  {
+    "english": "goods",
+    "hadiyyisa": "mu'uta"
+  },
+  {
+    "english": "gospel",
+    "hadiyyisa": "wongeela"
+  },
+  {
+    "english": "gossip",
+    "hadiyyisa": "woshsha"
+  },
+  {
+    "english": "govern",
+    "hadiyyisa": "gassukko"
+  },
+  {
+    "english": "government",
+    "hadiyyisa": "gaassi"
+  },
+  {
+    "english": "grain",
+    "hadiyyisa": "wixo"
+  },
+  {
+    "english": "grandfather",
+    "hadiyyisa": "lob anna"
+  },
+  {
+    "english": "grandmother",
+    "hadiyyisa": "lob ama"
+  },
+  {
+    "english": "grass",
+    "hadiyyisa": "hixe"
+  },
+  {
+    "english": "grasshopper",
+    "hadiyyisa": "kocha'nnichcho"
+  },
+  {
+    "english": "grave",
+    "hadiyyisa": "waamma"
+  },
+  {
+    "english": "gravel",
+    "hadiyyisa": "shashshara"
+  },
+  {
+    "english": "gray",
+    "hadiyyisa": "bula"
+  },
+  {
+    "english": "graze",
+    "hadiyyisa": "hixitukko"
+  },
+  {
+    "english": "great",
+    "hadiyyisa": "geejja"
+  },
+  {
+    "english": "greed",
+    "hadiyyisa": "waaka"
+  },
+  {
+    "english": "greedy",
+    "hadiyyisa": "gollaancho"
+  },
+  {
+    "english": "green",
+    "hadiyyisa": "shaano'o"
+  },
+  {
+    "english": "greet",
+    "hadiyyisa": "xummaatisukko"
+  },
+  {
+    "english": "greeting",
+    "hadiyyisa": "xummaato"
+  },
+  {
+    "english": "grind",
+    "hadiyyisa": "liitukko"
+  },
+  {
+    "english": "groan",
+    "hadiyyisa": "qe'nnukko"
+  },
+  {
+    "english": "ground",
+    "hadiyyisa": "buchcha"
+  },
+  {
+    "english": "group",
+    "hadiyyisa": "gaalcha"
+  },
+  {
+    "english": "grow",
+    "hadiyyisa": "li'ukko"
+  },
+  {
+    "english": "guard",
+    "hadiyyisa": "wardiyya"
+  },
+  {
+    "english": "guest",
+    "hadiyyisa": "koyyiincho"
+  },
+  {
+    "english": "guide",
+    "hadiyyisa": "awwonsaancho"
+  },
+  {
+    "english": "gun",
+    "hadiyyisa": "qawwe'e"
+  },
+  {
+    "english": "habit",
+    "hadiyyisa": "losano"
+  },
+  {
+    "english": "hail",
+    "hadiyyisa": "barada"
+  },
+  {
+    "english": "hair",
+    "hadiyyisa": "saraata"
+  },
+  {
+    "english": "half",
+    "hadiyyisa": "alaado"
+  },
+  {
+    "english": "hammer",
+    "hadiyyisa": "madooshsha"
+  },
+  {
+    "english": "hand",
+    "hadiyyisa": "anga"
+  },
+  {
+    "english": "handsome",
+    "hadiyyisa": "munxuruusa"
+  },
+  {
+    "english": "hang",
+    "hadiyyisa": "saqalukko"
+  },
+  {
+    "english": "happen",
+    "hadiyyisa": "afukko"
+  },
+  {
+    "english": "happiness",
+    "hadiyyisa": "liirancha"
+  },
+  {
+    "english": "happy",
+    "hadiyyisa": "liirame"
+  },
+  {
+    "english": "hard",
+    "hadiyyisa": "qoxxaalla"
+  },
+  {
+    "english": "harm",
+    "hadiyyisa": "genukko"
+  },
+  {
+    "english": "harvest",
+    "hadiyyisa": "murukko"
+  },
+  {
+    "english": "haste",
+    "hadiyyisa": "habaraato"
+  },
+  {
+    "english": "hat",
+    "hadiyyisa": "qoobe'e"
+  },
+  {
+    "english": "hate",
+    "hadiyyisa": "ceemukko"
+  },
+  {
+    "english": "hatred",
+    "hadiyyisa": "ceemma"
+  },
+  {
+    "english": "hawk",
+    "hadiyyisa": "silekkichcho"
+  },
+  {
+    "english": "hay",
+    "hadiyyisa": "basso'o"
+  },
+  {
+    "english": "he",
+    "hadiyyisa": "ixxo"
+  },
+  {
+    "english": "head",
+    "hadiyyisa": "horoore"
+  },
+  {
+    "english": "headache",
+    "hadiyyisa": "damuuma"
+  },
+  {
+    "english": "heal",
+    "hadiyyisa": "fayyiisukko"
+  },
+  {
+    "english": "health",
+    "hadiyyisa": "fayya'a"
+  },
+  {
+    "english": "healthy",
+    "hadiyyisa": "fayya'a"
+  },
+  {
+    "english": "hear",
+    "hadiyyisa": "macceesamukko"
+  },
+  {
+    "english": "heart",
+    "hadiyyisa": "wodano"
+  },
+  {
+    "english": "heat",
+    "hadiyyisa": "iibba"
+  },
+  {
+    "english": "heaven",
+    "hadiyyisa": "iimane"
+  },
+  {
+    "english": "heavy",
+    "hadiyyisa": "kee'mmaalla"
+  },
+  {
+    "english": "heel",
+    "hadiyyisa": "sinxichcho"
+  },
+  {
+    "english": "height",
+    "hadiyyisa": "shopite"
+  },
+  {
+    "english": "hell",
+    "hadiyyisa": "see'ola"
+  },
+  {
+    "english": "help",
+    "hadiyyisa": "hara'mmukko"
+  },
+  {
+    "english": "helper",
+    "hadiyyisa": "hara'mmaancho"
+  },
+  {
+    "english": "hem",
+    "hadiyyisa": "gammala"
+  },
+  {
+    "english": "hen",
+    "hadiyyisa": "antabaakkichcho"
+  },
+  {
+    "english": "herd",
+    "hadiyyisa": "allaachcha"
+  },
+  {
+    "english": "here",
+    "hadiyyisa": "eheen"
+  },
+  {
+    "english": "hero",
+    "hadiyyisa": "hobbichcho"
+  },
+  {
+    "english": "hide",
+    "hadiyyisa": "maaxukko"
+  },
+  {
+    "english": "hill",
+    "hadiyyisa": "duuna"
+  },
+  {
+    "english": "hippopotamus",
+    "hadiyyisa": "loobichcho"
+  },
+  {
+    "english": "hire",
+    "hadiyyisa": "qaxxarukko"
+  },
+  {
+    "english": "history",
+    "hadiyyisa": "aganna"
+  },
+  {
+    "english": "hit",
+    "hadiyyisa": "ganukko"
+  },
+  {
+    "english": "hoe",
+    "hadiyyisa": "dooma"
+  },
+  {
+    "english": "hold",
+    "hadiyyisa": "amadukko"
+  },
+  {
+    "english": "hole",
+    "hadiyyisa": "afo'o"
+  },
+  {
+    "english": "holiday",
+    "hadiyyisa": "uguda"
+  },
+  {
+    "english": "holy",
+    "hadiyyisa": "keesamma"
+  },
+  {
+    "english": "home",
+    "hadiyyisa": "mine"
+  },
+  {
+    "english": "honest",
+    "hadiyyisa": "hanqaamo"
+  },
+  {
+    "english": "honey",
+    "hadiyyisa": "marabo"
+  },
+  {
+    "english": "honour",
+    "hadiyyisa": "hayda"
+  },
+  {
+    "english": "hoof",
+    "hadiyyisa": "bobe'e"
+  },
+  {
+    "english": "hope",
+    "hadiyyisa": "neeyyato"
+  },
+  {
+    "english": "horn",
+    "hadiyyisa": "buudo"
+  },
+  {
+    "english": "horse",
+    "hadiyyisa": "farashsho"
+  },
+  {
+    "english": "hospital",
+    "hadiyyisa": "hospitaala"
+  },
+  {
+    "english": "hot",
+    "hadiyyisa": "iibbaalla"
+  },
+  {
+    "english": "hotel",
+    "hadiyyisa": "hootela"
+  },
+  {
+    "english": "hour",
+    "hadiyyisa": "sa'aata"
+  },
+  {
+    "english": "house",
+    "hadiyyisa": "mine"
+  },
+  {
+    "english": "how",
+    "hadiyyisa": "hinka"
+  },
+  {
+    "english": "huge",
+    "hadiyyisa": "geejja"
+  },
+  {
+    "english": "human being",
+    "hadiyyisa": "mannooma"
+  },
+  {
+    "english": "humiliation",
+    "hadiyyisa": "tuulle"
+  },
+  {
+    "english": "hunger",
+    "hadiyyisa": "shooma"
+  },
+  {
+    "english": "hungry",
+    "hadiyyisa": "shoomukko"
+  },
+  {
+    "english": "hunt",
+    "hadiyyisa": "hochchukko"
+  },
+  {
+    "english": "hunter",
+    "hadiyyisa": "hochchaancho"
+  },
+  {
+    "english": "hurry",
+    "hadiyyisa": "gaaggaabukko"
+  },
+  {
+    "english": "hurt",
+    "hadiyyisa": "hawwodukko"
+  },
+  {
+    "english": "husband",
+    "hadiyyisa": "aro'o"
+  },
+  {
+    "english": "hut",
+    "hadiyyisa": "jagara"
+  },
+  {
+    "english": "hyena",
+    "hadiyyisa": "gotichcho"
+  },
+  {
+    "english": "I",
+    "hadiyyisa": "ani"
+  },
+  {
+    "english": "ice",
+    "hadiyyisa": "barada"
+  },
+  {
+    "english": "idea",
+    "hadiyyisa": "sawwite"
+  },
+  {
+    "english": "identical",
+    "hadiyyisa": "mat hagara"
+  },
+  {
+    "english": "identify",
+    "hadiyyisa": "axarassukko"
+  },
+  {
+    "english": "idle",
+    "hadiyyisa": "azallaancho"
+  },
+  {
+    "english": "if",
+    "hadiyyisa": "qunxe"
+  },
+  {
+    "english": "ignore",
+    "hadiyyisa": "gadukko"
+  },
+  {
+    "english": "ill",
+    "hadiyyisa": "sute'e"
+  },
+  {
+    "english": "illness",
+    "hadiyyisa": "xisso"
+  },
+  {
+    "english": "image",
+    "hadiyyisa": "immeeja"
+  },
+  {
+    "english": "imagine",
+    "hadiyyisa": "atwonnukko"
+  },
+  {
+    "english": "imitate",
+    "hadiyyisa": "yoo'isame dabarukko"
+  },
+  {
+    "english": "immediately",
+    "hadiyyisa": "kabashichchom"
+  },
+  {
+    "english": "important",
+    "hadiyyisa": "lob"
+  },
+  {
+    "english": "impossible",
+    "hadiyyisa": "xanamoobee'ane"
+  },
+  {
+    "english": "imprison",
+    "hadiyyisa": "karukko"
+  },
+  {
+    "english": "improve",
+    "hadiyyisa": "e'llukko"
+  },
+  {
+    "english": "in",
+    "hadiyyisa": "woronne"
+  },
+  {
+    "english": "incense",
+    "hadiyyisa": "exaana"
+  },
+  {
+    "english": "income",
+    "hadiyyisa": "aago'o"
+  },
+  {
+    "english": "increase",
+    "hadiyyisa": "exxukko"
+  },
+  {
+    "english": "independent",
+    "hadiyyisa": "gaga xana"
+  },
+  {
+    "english": "infect",
+    "hadiyyisa": "nache'isukko"
+  },
+  {
+    "english": "infertile",
+    "hadiyyisa": "alceenna"
+  },
+  {
+    "english": "inform",
+    "hadiyyisa": "kurukko"
+  },
+  {
+    "english": "information",
+    "hadiyyisa": "baa'yyaata"
+  },
+  {
+    "english": "injera",
+    "hadiyyisa": "buddeenna"
+  },
+  {
+    "english": "injure",
+    "hadiyyisa": "hawwodukko"
+  },
+  {
+    "english": "injury",
+    "hadiyyisa": "saato"
+  },
+  {
+    "english": "ink",
+    "hadiyyisa": "wo'i qalama"
+  },
+  {
+    "english": "innocent",
+    "hadiyyisa": "aashaalla"
+  },
+  {
+    "english": "insect",
+    "hadiyyisa": "insekta"
+  },
+  {
+    "english": "inside",
+    "hadiyyisa": "woronne"
+  },
+  {
+    "english": "insult",
+    "hadiyyisa": "duuncha"
+  },
+  {
+    "english": "insurance",
+    "hadiyyisa": "inshuuraansa"
+  },
+  {
+    "english": "intelligent",
+    "hadiyyisa": "annaqqichcho"
+  },
+  {
+    "english": "interrupt",
+    "hadiyyisa": "baga uullimma"
+  },
+  {
+    "english": "interview",
+    "hadiyyisa": "suu'm xa'mmichcha"
+  },
+  {
+    "english": "intestine",
+    "hadiyyisa": "hilleenna"
+  },
+  {
+    "english": "iron",
+    "hadiyyisa": "xaara"
+  },
+  {
+    "english": "island",
+    "hadiyyisa": "booyya"
+  },
+  {
+    "english": "itch",
+    "hadiyyisa": "qoshukko"
+  },
+  {
+    "english": "ivory",
+    "hadiyyisa": "daannechchi inqe"
+  },
+  {
+    "english": "jackal",
+    "hadiyyisa": "qabaro"
+  },
+  {
+    "english": "jacket",
+    "hadiyyisa": "jaakkeeta"
+  },
+  {
+    "english": "jaw",
+    "hadiyyisa": "aqeeca"
+  },
+  {
+    "english": "jealous",
+    "hadiyyisa": "qanaate"
+  },
+  {
+    "english": "job",
+    "hadiyyisa": "baxo"
+  },
+  {
+    "english": "join",
+    "hadiyyisa": "somukko"
+  },
+  {
+    "english": "joint",
+    "hadiyyisa": "ejja"
+  },
+  {
+    "english": "joke",
+    "hadiyyisa": "weeddo'o"
+  },
+  {
+    "english": "journey",
+    "hadiyyisa": "googo"
+  },
+  {
+    "english": "joy",
+    "hadiyyisa": "liirancha"
+  },
+  {
+    "english": "judge",
+    "hadiyyisa": "daanna"
+  },
+  {
+    "english": "judgement",
+    "hadiyyisa": "firda"
+  },
+  {
+    "english": "juice",
+    "hadiyyisa": "ciinso'o"
+  },
+  {
+    "english": "jump",
+    "hadiyyisa": "xophukko"
+  },
+  {
+    "english": "jungle",
+    "hadiyyisa": "muuma"
+  },
+  {
+    "english": "just",
+    "hadiyyisa": "danaamo"
+  },
+  {
+    "english": "justice",
+    "hadiyyisa": "fitihaawii"
+  },
+  {
+    "english": "keep",
+    "hadiyyisa": "egerukko"
+  },
+  {
+    "english": "kettle",
+    "hadiyyisa": "jabana"
+  },
+  {
+    "english": "key",
+    "hadiyyisa": "qulfa"
+  },
+  {
+    "english": "kick",
+    "hadiyyisa": "kade'ukko"
+  },
+  {
+    "english": "kidney",
+    "hadiyyisa": "mure"
+  },
+  {
+    "english": "kill",
+    "hadiyyisa": "shukko"
+  },
+  {
+    "english": "killer",
+    "hadiyyisa": "gullichcho"
+  },
+  {
+    "english": "kind",
+    "hadiyyisa": "biijaalla"
+  },
+  {
+    "english": "kindness",
+    "hadiyyisa": "eroomma"
+  },
+  {
+    "english": "king",
+    "hadiyyisa": "adila"
+  },
+  {
+    "english": "kingdom",
+    "hadiyyisa": "adillano"
+  },
+  {
+    "english": "kiss",
+    "hadiyyisa": "suunqukko"
+  },
+  {
+    "english": "kitchen",
+    "hadiyyisa": "wox mine"
+  },
+  {
+    "english": "knee",
+    "hadiyyisa": "gurubbo"
+  },
+  {
+    "english": "kneel",
+    "hadiyyisa": "guruphphukko"
+  },
+  {
+    "english": "knife",
+    "hadiyyisa": "billawwa"
+  },
+  {
+    "english": "knock",
+    "hadiyyisa": "qoccukko"
+  },
+  {
+    "english": "knot",
+    "hadiyyisa": "gudda"
+  },
+  {
+    "english": "know",
+    "hadiyyisa": "la'ukko"
+  },
+  {
+    "english": "knowledge",
+    "hadiyyisa": "lachcha"
+  },
+  {
+    "english": "labor",
+    "hadiyyisa": "malaayyi baxo"
+  },
+  {
+    "english": "ladder",
+    "hadiyyisa": "masalaala"
+  },
+  {
+    "english": "lake",
+    "hadiyyisa": "dambala"
+  },
+  {
+    "english": "lamb",
+    "hadiyyisa": "geexa"
+  },
+  {
+    "english": "lame",
+    "hadiyyisa": "shiiha"
+  },
+  {
+    "english": "lamp",
+    "hadiyyisa": "faanoosa"
+  },
+  {
+    "english": "lance",
+    "hadiyyisa": "boda"
+  },
+  {
+    "english": "land",
+    "hadiyyisa": "uulla"
+  },
+  {
+    "english": "language",
+    "hadiyyisa": "sagara"
+  },
+  {
+    "english": "large",
+    "hadiyyisa": "geejja"
+  },
+  {
+    "english": "last",
+    "hadiyyisa": "lasaancho"
+  },
+  {
+    "english": "late",
+    "hadiyyisa": "dasukko"
+  },
+  {
+    "english": "laugh",
+    "hadiyyisa": "osarukko"
+  },
+  {
+    "english": "laughter",
+    "hadiyyisa": "osachcha"
+  },
+  {
+    "english": "law",
+    "hadiyyisa": "seera"
+  },
+  {
+    "english": "lawyer",
+    "hadiyyisa": "seera lachchi mancho"
+  },
+  {
+    "english": "lazy",
+    "hadiyyisa": "azallaancho"
+  },
+  {
+    "english": "lead",
+    "hadiyyisa": "awwonsukko"
+  },
+  {
+    "english": "leader",
+    "hadiyyisa": "awwonsaancho"
+  },
+  {
+    "english": "leaf",
+    "hadiyyisa": "buyya"
+  },
+  {
+    "english": "leak",
+    "hadiyyisa": "cophukko"
+  },
+  {
+    "english": "lean",
+    "hadiyyisa": "shiila"
+  },
+  {
+    "english": "learn",
+    "hadiyyisa": "losukko"
+  },
+  {
+    "english": "leave",
+    "hadiyyisa": "urukko"
+  },
+  {
+    "english": "left",
+    "hadiyyisa": "qedda"
+  },
+  {
+    "english": "leg",
+    "hadiyyisa": "lokko"
+  },
+  {
+    "english": "lemon",
+    "hadiyyisa": "loome'e"
+  },
+  {
+    "english": "lend",
+    "hadiyyisa": "liqaayyisukko"
+  },
+  {
+    "english": "length",
+    "hadiyyisa": "qeeraa'llooma"
+  },
+  {
+    "english": "leopard",
+    "hadiyyisa": "kabeechcho"
+  },
+  {
+    "english": "leper",
+    "hadiyyisa": "shishiraancho"
+  },
+  {
+    "english": "lesson",
+    "hadiyyisa": "losano"
+  },
+  {
+    "english": "letter",
+    "hadiyyisa": "kitaaba"
+  },
+  {
+    "english": "level",
+    "hadiyyisa": "kaba"
+  },
+  {
+    "english": "liar",
+    "hadiyyisa": "qophphanaancho"
+  },
+  {
+    "english": "libel",
+    "hadiyyisa": "hamo"
+  },
+  {
+    "english": "library",
+    "hadiyyisa": "laaybirare'e"
+  },
+  {
+    "english": "lick",
+    "hadiyyisa": "aallukko"
+  },
+  {
+    "english": "lid",
+    "hadiyyisa": "ifa"
+  },
+  {
+    "english": "lie",
+    "hadiyyisa": "qophphanukko"
+  },
+  {
+    "english": "life",
+    "hadiyyisa": "heechcha"
+  },
+  {
+    "english": "lift",
+    "hadiyyisa": "luunsukko"
+  },
+  {
+    "english": "light",
+    "hadiyyisa": "caakka"
+  },
+  {
+    "english": "lightning",
+    "hadiyyisa": "banqa"
+  },
+  {
+    "english": "limit",
+    "hadiyyisa": "daanga"
+  },
+  {
+    "english": "line",
+    "hadiyyisa": "ogora"
+  },
+  {
+    "english": "lion",
+    "hadiyyisa": "hobbichcho"
+  },
+  {
+    "english": "lip",
+    "hadiyyisa": "yabura"
+  },
+  {
+    "english": "listen",
+    "hadiyyisa": "macceesukko"
+  },
+  {
+    "english": "literature",
+    "hadiyyisa": "kitaaphphi hayyo'ooma"
+  },
+  {
+    "english": "little",
+    "hadiyyisa": "hoffane"
+  },
+  {
+    "english": "live",
+    "hadiyyisa": "hee'ukko"
+  },
+  {
+    "english": "liver",
+    "hadiyyisa": "afare"
+  },
+  {
+    "english": "load",
+    "hadiyyisa": "iyyukko"
+  },
+  {
+    "english": "lock",
+    "hadiyyisa": "qollofukko"
+  },
+  {
+    "english": "locust",
+    "hadiyyisa": "ambaxa"
+  },
+  {
+    "english": "log",
+    "hadiyyisa": "gudeera"
+  },
+  {
+    "english": "lonely",
+    "hadiyyisa": "matayyukko"
+  },
+  {
+    "english": "long",
+    "hadiyyisa": "qeeraa'lla"
+  },
+  {
+    "english": "look",
+    "hadiyyisa": "moo'ukko"
+  },
+  {
+    "english": "loose",
+    "hadiyyisa": "tire"
+  },
+  {
+    "english": "loosen",
+    "hadiyyisa": "sho'isukko"
+  },
+  {
+    "english": "lose",
+    "hadiyyisa": "huushukko"
+  },
+  {
+    "english": "louse",
+    "hadiyyisa": "ibiiba"
+  },
+  {
+    "english": "love",
+    "hadiyyisa": "iitto"
+  },
+  {
+    "english": "low",
+    "hadiyyisa": "woroon"
+  },
+  {
+    "english": "luck",
+    "hadiyyisa": "saamo"
+  },
+  {
+    "english": "lunch",
+    "hadiyyisa": "hoshsho'o"
+  },
+  {
+    "english": "lung",
+    "hadiyyisa": "qadafara"
+  },
+  {
+    "english": "mad",
+    "hadiyyisa": "machchaalla"
+  },
+  {
+    "english": "magazine",
+    "hadiyyisa": "matseeta"
+  },
+  {
+    "english": "magic",
+    "hadiyyisa": "jachchi"
+  },
+  {
+    "english": "maize",
+    "hadiyyisa": "boqqolla"
+  },
+  {
+    "english": "majority",
+    "hadiyyisa": "lophphoo"
+  },
+  {
+    "english": "make",
+    "hadiyyisa": "baxukko"
+  },
+  {
+    "english": "malaria",
+    "hadiyyisa": "machchisa"
+  },
+  {
+    "english": "male",
+    "hadiyyisa": "gooncho"
+  },
+  {
+    "english": "man",
+    "hadiyyisa": "mancho"
+  },
+  {
+    "english": "many",
+    "hadiyyisa": "duta"
+  },
+  {
+    "english": "map",
+    "hadiyyisa": "uulli misila"
+  },
+  {
+    "english": "market",
+    "hadiyyisa": "meera"
+  },
+  {
+    "english": "marriage",
+    "hadiyyisa": "bollochcho'o"
+  },
+  {
+    "english": "marry",
+    "hadiyyisa": "aagisukko"
+  },
+  {
+    "english": "marrow",
+    "hadiyyisa": "qo'o"
+  },
+  {
+    "english": "master",
+    "hadiyyisa": "geetakkichcho"
+  },
+  {
+    "english": "mat",
+    "hadiyyisa": "dakka"
+  },
+  {
+    "english": "match",
+    "hadiyyisa": "shiinnaatukko"
+  },
+  {
+    "english": "mathematics",
+    "hadiyyisa": "shallago'o"
+  },
+  {
+    "english": "mature",
+    "hadiyyisa": "xoxxoolla"
+  },
+  {
+    "english": "meal",
+    "hadiyyisa": "hurbaata"
+  },
+  {
+    "english": "meaning",
+    "hadiyyisa": "tirato"
+  },
+  {
+    "english": "measure",
+    "hadiyyisa": "keenukko"
+  },
+  {
+    "english": "meat",
+    "hadiyyisa": "maara"
+  },
+  {
+    "english": "medicine",
+    "hadiyyisa": "qaraare"
+  },
+  {
+    "english": "meet",
+    "hadiyyisa": "edamukko"
+  },
+  {
+    "english": "meeting",
+    "hadiyyisa": "wixxite"
+  },
+  {
+    "english": "melt",
+    "hadiyyisa": "bukkukko"
+  },
+  {
+    "english": "member",
+    "hadiyyisa": "tuutichcho"
+  },
+  {
+    "english": "memorize",
+    "hadiyyisa": "soroobukko"
+  },
+  {
+    "english": "mend",
+    "hadiyyisa": "iifissukko"
+  },
+  {
+    "english": "merchant",
+    "hadiyyisa": "daddaraancho"
+  },
+  {
+    "english": "mercy",
+    "hadiyyisa": "haafite"
+  },
+  {
+    "english": "message",
+    "hadiyyisa": "asso"
+  },
+  {
+    "english": "metal",
+    "hadiyyisa": "xaara"
+  },
+  {
+    "english": "middle",
+    "hadiyyisa": "lambe'e"
+  },
+  {
+    "english": "midnight",
+    "hadiyyisa": "baqite"
+  },
+  {
+    "english": "midwife",
+    "hadiyyisa": "qassiisaancho"
+  },
+  {
+    "english": "milk",
+    "hadiyyisa": "ado"
+  },
+  {
+    "english": "mill",
+    "hadiyyisa": "baabu'l mine"
+  },
+  {
+    "english": "mind",
+    "hadiyyisa": "sawwititte"
+  },
+  {
+    "english": "minister",
+    "hadiyyisa": "ministeechcho"
+  },
+  {
+    "english": "minute",
+    "hadiyyisa": "daqiiqa"
+  },
+  {
+    "english": "miracle",
+    "hadiyyisa": "maalala"
+  },
+  {
+    "english": "mirror",
+    "hadiyyisa": "mastaaboota"
+  },
+  {
+    "english": "misfortune",
+    "hadiyyisa": "hawwo"
+  },
+  {
+    "english": "miss",
+    "hadiyyisa": "huushukko"
+  },
+  {
+    "english": "mistake",
+    "hadiyyisa": "huushancha"
+  },
+  {
+    "english": "mix",
+    "hadiyyisa": "hamaarukko"
+  },
+  {
+    "english": "mixture",
+    "hadiyyisa": "hamaaro'o"
+  },
+  {
+    "english": "model",
+    "hadiyyisa": "kobi'lla"
+  },
+  {
+    "english": "modern",
+    "hadiyyisa": "doollaba"
+  },
+  {
+    "english": "money",
+    "hadiyyisa": "diinate"
+  },
+  {
+    "english": "monkey",
+    "hadiyyisa": "qamachcho"
+  },
+  {
+    "english": "month",
+    "hadiyyisa": "agana"
+  },
+  {
+    "english": "moon",
+    "hadiyyisa": "agana"
+  },
+  {
+    "english": "morning",
+    "hadiyyisa": "soodo"
+  },
+  {
+    "english": "mosquito",
+    "hadiyyisa": "biimbe'e"
+  },
+  {
+    "english": "mother",
+    "hadiyyisa": "ama"
+  },
+  {
+    "english": "motor",
+    "hadiyyisa": "motora"
+  },
+  {
+    "english": "mountain",
+    "hadiyyisa": "duuna"
+  },
+  {
+    "english": "mourn",
+    "hadiyyisa": "wi'llukko"
+  },
+  {
+    "english": "mourning",
+    "hadiyyisa": "wi'llo"
+  },
+  {
+    "english": "mouse",
+    "hadiyyisa": "dabayyichcho"
+  },
+  {
+    "english": "moustache",
+    "hadiyyisa": "haareedda"
+  },
+  {
+    "english": "mouth",
+    "hadiyyisa": "suume"
+  },
+  {
+    "english": "move",
+    "hadiyyisa": "mikke'ukko"
+  },
+  {
+    "english": "movement",
+    "hadiyyisa": "mikmikaato"
+  },
+  {
+    "english": "mud",
+    "hadiyyisa": "hara"
+  },
+  {
+    "english": "mule",
+    "hadiyyisa": "baquchcho"
+  },
+  {
+    "english": "multiply",
+    "hadiyyisa": "ho'llukko"
+  },
+  {
+    "english": "murder",
+    "hadiyyisa": "shukko"
+  },
+  {
+    "english": "muscle",
+    "hadiyyisa": "bu'ana"
+  },
+  {
+    "english": "music",
+    "hadiyyisa": "muuziiqa"
+  },
+  {
+    "english": "nail",
+    "hadiyyisa": "mismaara"
+  },
+  {
+    "english": "naked",
+    "hadiyyisa": "umba'ada"
+  },
+  {
+    "english": "name",
+    "hadiyyisa": "summa"
+  },
+  {
+    "english": "narrow",
+    "hadiyyisa": "xuqqa"
+  },
+  {
+    "english": "nation",
+    "hadiyyisa": "giira"
+  },
+  {
+    "english": "nature",
+    "hadiyyisa": "qoocca"
+  },
+  {
+    "english": "navel",
+    "hadiyyisa": "suro"
+  },
+  {
+    "english": "near",
+    "hadiyyisa": "hinca"
+  },
+  {
+    "english": "neck",
+    "hadiyyisa": "gaanje"
+  },
+  {
+    "english": "necklace",
+    "hadiyyisa": "wereegga"
+  },
+  {
+    "english": "needle",
+    "hadiyyisa": "marfe'e"
+  },
+  {
+    "english": "neighbour",
+    "hadiyyisa": "ollakkichcho"
+  },
+  {
+    "english": "nephew",
+    "hadiyyisa": "abbaayyi beeto"
+  },
+  {
+    "english": "nest",
+    "hadiyyisa": "do'nna"
+  },
+  {
+    "english": "net",
+    "hadiyyisa": "neetta"
+  },
+  {
+    "english": "never",
+    "hadiyyisa": "hore'im"
+  },
+  {
+    "english": "new",
+    "hadiyyisa": "haareechcho"
+  },
+  {
+    "english": "news",
+    "hadiyyisa": "xambo"
+  },
+  {
+    "english": "newspaper",
+    "hadiyyisa": "gaazeexa"
+  },
+  {
+    "english": "next",
+    "hadiyyisa": "awwonaa"
+  },
+  {
+    "english": "niece",
+    "hadiyyisa": "aay landichotte"
+  },
+  {
+    "english": "night",
+    "hadiyyisa": "hiimo"
+  },
+  {
+    "english": "nine",
+    "hadiyyisa": "honso"
+  },
+  {
+    "english": "no",
+    "hadiyyisa": "bee'e"
+  },
+  {
+    "english": "noise",
+    "hadiyyisa": "bacancachcha"
+  },
+  {
+    "english": "noon",
+    "hadiyyisa": "sam gudo"
+  },
+  {
+    "english": "north",
+    "hadiyyisa": "hanaan"
+  },
+  {
+    "english": "nose",
+    "hadiyyisa": "sane"
+  },
+  {
+    "english": "nothing",
+    "hadiyyisa": "mahayyo"
+  },
+  {
+    "english": "now",
+    "hadiyyisa": "kaba"
+  },
+  {
+    "english": "number",
+    "hadiyyisa": "xigo"
+  },
+  {
+    "english": "nurse",
+    "hadiyyisa": "hakiincho"
+  },
+  {
+    "english": "oath",
+    "hadiyyisa": "gudda"
+  },
+  {
+    "english": "obey",
+    "hadiyyisa": "ijaajamukko"
+  },
+  {
+    "english": "ocean",
+    "hadiyyisa": "dambala"
+  },
+  {
+    "english": "office",
+    "hadiyyisa": "biiro'o"
+  },
+  {
+    "english": "oil",
+    "hadiyyisa": "zayita"
+  },
+  {
+    "english": "old",
+    "hadiyyisa": "gageechcho"
+  },
+  {
+    "english": "onion",
+    "hadiyyisa": "shunkurutta"
+  },
+  {
+    "english": "only",
+    "hadiyyisa": "xale'e"
+  },
+  {
+    "english": "open",
+    "hadiyyisa": "fooqaa'ukko"
+  },
+  {
+    "english": "opinion",
+    "hadiyyisa": "sawwite"
+  },
+  {
+    "english": "oppose",
+    "hadiyyisa": "uullamukko"
+  },
+  {
+    "english": "or",
+    "hadiyyisa": "te'im"
+  },
+  {
+    "english": "orange",
+    "hadiyyisa": "burtukaana"
+  },
+  {
+    "english": "order",
+    "hadiyyisa": "ijaajo"
+  },
+  {
+    "english": "origin",
+    "hadiyyisa": "hi'nna"
+  },
+  {
+    "english": "orphan",
+    "hadiyyisa": "adaraaro"
+  },
+  {
+    "english": "ostrich",
+    "hadiyyisa": "guchchekkichcho"
+  },
+  {
+    "english": "other",
+    "hadiyyisa": "mulleka"
+  },
+  {
+    "english": "our",
+    "hadiyyisa": "ni"
+  },
+  {
+    "english": "out",
+    "hadiyyisa": "tochcho"
+  },
+  {
+    "english": "outside",
+    "hadiyyisa": "biira"
+  },
+  {
+    "english": "oven",
+    "hadiyyisa": "godirada"
+  },
+  {
+    "english": "over",
+    "hadiyyisa": "hanaan"
+  },
+  {
+    "english": "overcome",
+    "hadiyyisa": "xorukko"
+  },
+  {
+    "english": "owl",
+    "hadiyyisa": "gutansa"
+  },
+  {
+    "english": "own",
+    "hadiyyisa": "lule'ixxukko"
+  },
+  {
+    "english": "owner",
+    "hadiyyisa": "anna"
+  },
+  {
+    "english": "ox",
+    "hadiyyisa": "ba'ara"
+  },
+  {
+    "english": "oxygen",
+    "hadiyyisa": "oksijiina"
+  },
+  {
+    "english": "page",
+    "hadiyyisa": "ido"
+  },
+  {
+    "english": "pain",
+    "hadiyyisa": "xisso"
+  },
+  {
+    "english": "paint",
+    "hadiyyisa": "qalama"
+  },
+  {
+    "english": "palm",
+    "hadiyyisa": "oobba"
+  },
+  {
+    "english": "pan",
+    "hadiyyisa": "disxe'e"
+  },
+  {
+    "english": "pants",
+    "hadiyyisa": "sure'e"
+  },
+  {
+    "english": "paper",
+    "hadiyyisa": "luuka"
+  },
+  {
+    "english": "pardon",
+    "hadiyyisa": "urato"
+  },
+  {
+    "english": "parents",
+    "hadiyyisa": "anno'o amo'o"
+  },
+  {
+    "english": "park",
+    "hadiyyisa": "fooshe'akkam beyyo"
+  },
+  {
+    "english": "part",
+    "hadiyyisa": "baxxancha"
+  },
+  {
+    "english": "pass",
+    "hadiyyisa": "higukko"
+  },
+  {
+    "english": "past",
+    "hadiyyisa": "higoo"
+  },
+  {
+    "english": "patience",
+    "hadiyyisa": "adaba"
+  },
+  {
+    "english": "patient",
+    "hadiyyisa": "jabbaancho"
+  },
+  {
+    "english": "pay",
+    "hadiyyisa": "miqukko"
+  },
+  {
+    "english": "pea",
+    "hadiyyisa": "atara"
+  },
+  {
+    "english": "peace",
+    "hadiyyisa": "keera"
+  },
+  {
+    "english": "peel",
+    "hadiyyisa": "coo'ukko"
+  },
+  {
+    "english": "pen",
+    "hadiyyisa": "iskibirto"
+  },
+  {
+    "english": "pencil",
+    "hadiyyisa": "irsaasa"
+  },
+  {
+    "english": "penis",
+    "hadiyyisa": "sheello"
+  },
+  {
+    "english": "people",
+    "hadiyyisa": "minaadaba"
+  },
+  {
+    "english": "pepper",
+    "hadiyyisa": "barbaro'o"
+  },
+  {
+    "english": "perhaps",
+    "hadiyyisa": "lamaarem"
+  },
+  {
+    "english": "permission",
+    "hadiyyisa": "faqqadukko"
+  },
+  {
+    "english": "person",
+    "hadiyyisa": "mancho"
+  },
+  {
+    "english": "persuade",
+    "hadiyyisa": "heerukko"
+  },
+  {
+    "english": "photograph",
+    "hadiyyisa": "foto"
+  },
+  {
+    "english": "physics",
+    "hadiyyisa": "fiiziksa"
+  },
+  {
+    "english": "pick",
+    "hadiyyisa": "kututaa'ukko"
+  },
+  {
+    "english": "picture",
+    "hadiyyisa": "misila"
+  },
+  {
+    "english": "piece",
+    "hadiyyisa": "qorosha"
+  },
+  {
+    "english": "pierce",
+    "hadiyyisa": "qasukko"
+  },
+  {
+    "english": "pig",
+    "hadiyyisa": "boonke'e"
+  },
+  {
+    "english": "pigeon",
+    "hadiyyisa": "handarekkichcho"
+  },
+  {
+    "english": "pill",
+    "hadiyyisa": "kiniina"
+  },
+  {
+    "english": "pillow",
+    "hadiyyisa": "barkuma"
+  },
+  {
+    "english": "pipe",
+    "hadiyyisa": "boomba"
+  },
+  {
+    "english": "pit",
+    "hadiyyisa": "bare"
+  },
+  {
+    "english": "pity",
+    "hadiyyisa": "haafite"
+  },
+  {
+    "english": "place",
+    "hadiyyisa": "beyyo"
+  },
+  {
+    "english": "plain",
+    "hadiyyisa": "bada"
+  },
+  {
+    "english": "plan",
+    "hadiyyisa": "goodo'o"
+  },
+  {
+    "english": "planet",
+    "hadiyyisa": "pilaaneeta"
+  },
+  {
+    "english": "plant",
+    "hadiyyisa": "kaasukko"
+  },
+  {
+    "english": "plate",
+    "hadiyyisa": "bixxira"
+  },
+  {
+    "english": "play",
+    "hadiyyisa": "lellukko"
+  },
+  {
+    "english": "player",
+    "hadiyyisa": "lellaancho"
+  },
+  {
+    "english": "please",
+    "hadiyyisa": "tashaa'ukko"
+  },
+  {
+    "english": "pleasure",
+    "hadiyyisa": "tashite"
+  },
+  {
+    "english": "plenty",
+    "hadiyyisa": "fafukko"
+  },
+  {
+    "english": "plough",
+    "hadiyyisa": "maarashsha"
+  },
+  {
+    "english": "pocket",
+    "hadiyyisa": "kiisa"
+  },
+  {
+    "english": "poem",
+    "hadiyyisa": "gixo'o"
+  },
+  {
+    "english": "poet",
+    "hadiyyisa": "gixukko"
+  },
+  {
+    "english": "point",
+    "hadiyyisa": "tako'o"
+  },
+  {
+    "english": "poison",
+    "hadiyyisa": "marza"
+  },
+  {
+    "english": "pole",
+    "hadiyyisa": "poola"
+  },
+  {
+    "english": "police",
+    "hadiyyisa": "pooliisa"
+  },
+  {
+    "english": "policeman",
+    "hadiyyisa": "pooliisichcho"
+  },
+  {
+    "english": "polite",
+    "hadiyyisa": "maashaalla"
+  },
+  {
+    "english": "pool",
+    "hadiyyisa": "core"
+  },
+  {
+    "english": "poor",
+    "hadiyyisa": "buxa"
+  },
+  {
+    "english": "popular",
+    "hadiyyisa": "inkiinnamukko"
+  },
+  {
+    "english": "population",
+    "hadiyyisa": "haayyite"
+  },
+  {
+    "english": "porcupine",
+    "hadiyyisa": "gandaddichcho"
+  },
+  {
+    "english": "porridge",
+    "hadiyyisa": "mooqqa"
+  },
+  {
+    "english": "possible",
+    "hadiyyisa": "xanamimma"
+  },
+  {
+    "english": "pot",
+    "hadiyyisa": "harachcho"
+  },
+  {
+    "english": "potato",
+    "hadiyyisa": "dinnichcho"
+  },
+  {
+    "english": "potter",
+    "hadiyyisa": "fugakkichcho"
+  },
+  {
+    "english": "pour",
+    "hadiyyisa": "dunukko"
+  },
+  {
+    "english": "poverty",
+    "hadiyyisa": "buxa"
+  },
+  {
+    "english": "powder",
+    "hadiyyisa": "qama"
+  },
+  {
+    "english": "power",
+    "hadiyyisa": "malaayye"
+  },
+  {
+    "english": "powerful",
+    "hadiyyisa": "malaayyaamo"
+  },
+  {
+    "english": "praise",
+    "hadiyyisa": "galata"
+  },
+  {
+    "english": "pray",
+    "hadiyyisa": "uunxukko"
+  },
+  {
+    "english": "prayer",
+    "hadiyyisa": "uunxato"
+  },
+  {
+    "english": "preach",
+    "hadiyyisa": "alallaatukko"
+  },
+  {
+    "english": "preacher",
+    "hadiyyisa": "alallaataancho"
+  },
+  {
+    "english": "pregnant",
+    "hadiyyisa": "siira"
+  },
+  {
+    "english": "prepare",
+    "hadiyyisa": "ansinaadukko"
+  },
+  {
+    "english": "presence",
+    "hadiyyisa": "siidamimma"
+  },
+  {
+    "english": "present",
+    "hadiyyisa": "uwwamaakkoo luwwa"
+  },
+  {
+    "english": "preserve",
+    "hadiyyisa": "idiidukko"
+  },
+  {
+    "english": "president",
+    "hadiyyisa": "awwonsaancho"
+  },
+  {
+    "english": "press",
+    "hadiyyisa": "weexukko"
+  },
+  {
+    "english": "pretty",
+    "hadiyyisa": "danaamo"
+  },
+  {
+    "english": "prevent",
+    "hadiyyisa": "hoo'llukko"
+  },
+  {
+    "english": "price",
+    "hadiyyisa": "bito"
+  },
+  {
+    "english": "prick",
+    "hadiyyisa": "hulfukko"
+  },
+  {
+    "english": "pride",
+    "hadiyyisa": "bolxa"
+  },
+  {
+    "english": "priest",
+    "hadiyyisa": "qeessi"
+  },
+  {
+    "english": "print",
+    "hadiyyisa": "koobukko"
+  },
+  {
+    "english": "prison",
+    "hadiyyisa": "wohina"
+  },
+  {
+    "english": "prisoner",
+    "hadiyyisa": "qeefadamaakkohane"
+  },
+  {
+    "english": "prize",
+    "hadiyyisa": "sumudukko"
+  },
+  {
+    "english": "problem",
+    "hadiyyisa": "hawwo"
+  },
+  {
+    "english": "procedure",
+    "hadiyyisa": "siyya'a"
+  },
+  {
+    "english": "produce",
+    "hadiyyisa": "fikkaannukko"
+  },
+  {
+    "english": "product",
+    "hadiyyisa": "misha"
+  },
+  {
+    "english": "profit",
+    "hadiyyisa": "tirfa"
+  },
+  {
+    "english": "program",
+    "hadiyyisa": "pirogiraama"
+  },
+  {
+    "english": "progress",
+    "hadiyyisa": "li'ino"
+  },
+  {
+    "english": "promise",
+    "hadiyyisa": "hidiro"
+  },
+  {
+    "english": "pronounce",
+    "hadiyyisa": "suum woccukko"
+  },
+  {
+    "english": "proof",
+    "hadiyyisa": "naqqasishsha"
+  },
+  {
+    "english": "prophet",
+    "hadiyyisa": "hiraagaancho"
+  },
+  {
+    "english": "protect",
+    "hadiyyisa": "egerukko"
+  },
+  {
+    "english": "proud",
+    "hadiyyisa": "bolxukko"
+  },
+  {
+    "english": "proverb",
+    "hadiyyisa": "heesso"
+  },
+  {
+    "english": "punish",
+    "hadiyyisa": "qaxa'ukko"
+  },
+  {
+    "english": "punishment",
+    "hadiyyisa": "muro'o"
+  },
+  {
+    "english": "pupil",
+    "hadiyyisa": "losisaancho"
+  },
+  {
+    "english": "puppy",
+    "hadiyyisa": "xuuxullichcho"
+  },
+  {
+    "english": "pure",
+    "hadiyyisa": "muccura"
+  },
+  {
+    "english": "purse",
+    "hadiyyisa": "borsa"
+  },
+  {
+    "english": "pus",
+    "hadiyyisa": "mara"
+  },
+  {
+    "english": "push",
+    "hadiyyisa": "xiibukko"
+  },
+  {
+    "english": "put",
+    "hadiyyisa": "worukko"
+  },
+  {
+    "english": "puzzle",
+    "hadiyyisa": "maaxaqqa"
+  },
+  {
+    "english": "python",
+    "hadiyyisa": "xarakkichcho"
+  },
+  {
+    "english": "quarrel",
+    "hadiyyisa": "jorukko"
+  },
+  {
+    "english": "queen",
+    "hadiyyisa": "meenti adila"
+  },
+  {
+    "english": "question",
+    "hadiyyisa": "xa'mmichcha"
+  },
+  {
+    "english": "queue",
+    "hadiyyisa": "salfa"
+  },
+  {
+    "english": "quick",
+    "hadiyyisa": "gaaggaaba"
+  },
+  {
+    "english": "quiet",
+    "hadiyyisa": "cawwukko"
+  },
+  {
+    "english": "rabbit",
+    "hadiyyisa": "shumagichcho"
+  },
+  {
+    "english": "race",
+    "hadiyyisa": "sheefe'e"
+  },
+  {
+    "english": "radio",
+    "hadiyyisa": "reedo'o"
+  },
+  {
+    "english": "rain",
+    "hadiyyisa": "xeena"
+  },
+  {
+    "english": "rainbow",
+    "hadiyyisa": "waadamuuncho"
+  },
+  {
+    "english": "raincoat",
+    "hadiyyisa": "xee'n koota"
+  },
+  {
+    "english": "raise",
+    "hadiyyisa": "ki'isukko"
+  },
+  {
+    "english": "ram",
+    "hadiyyisa": "ambula"
+  },
+  {
+    "english": "rank",
+    "hadiyyisa": "ma'iraga"
+  },
+  {
+    "english": "rape",
+    "hadiyyisa": "gosukko"
+  },
+  {
+    "english": "rare",
+    "hadiyyisa": "nu'uuda"
+  },
+  {
+    "english": "rat",
+    "hadiyyisa": "dabayyichcho"
+  },
+  {
+    "english": "raw",
+    "hadiyyisa": "qaquulla"
+  },
+  {
+    "english": "ray",
+    "hadiyyisa": "laaga"
+  },
+  {
+    "english": "razor",
+    "hadiyyisa": "malaaca"
+  },
+  {
+    "english": "reach",
+    "hadiyyisa": "iillukko"
+  },
+  {
+    "english": "read",
+    "hadiyyisa": "qananaa'ukko"
+  },
+  {
+    "english": "reader",
+    "hadiyyisa": "qananaa'aancho"
+  },
+  {
+    "english": "ready",
+    "hadiyyisa": "xaaxxa"
+  },
+  {
+    "english": "real",
+    "hadiyyisa": "hanqa"
+  },
+  {
+    "english": "reality",
+    "hadiyyisa": "hanqa"
+  },
+  {
+    "english": "reason",
+    "hadiyyisa": "sababo"
+  },
+  {
+    "english": "rebel",
+    "hadiyyisa": "shabbaramukko"
+  },
+  {
+    "english": "rebuke",
+    "hadiyyisa": "shaaqukko"
+  },
+  {
+    "english": "receive",
+    "hadiyyisa": "aa'ukko"
+  },
+  {
+    "english": "recently",
+    "hadiyyisa": "abbis ammane"
+  },
+  {
+    "english": "recognize",
+    "hadiyyisa": "qoossukko"
+  },
+  {
+    "english": "reconcile",
+    "hadiyyisa": "araassukko"
+  },
+  {
+    "english": "recover",
+    "hadiyyisa": "fayyukko"
+  },
+  {
+    "english": "red",
+    "hadiyyisa": "kashara"
+  },
+  {
+    "english": "reduce",
+    "hadiyyisa": "hoffiisukko"
+  },
+  {
+    "english": "reed",
+    "hadiyyisa": "sadda"
+  },
+  {
+    "english": "refuse",
+    "hadiyyisa": "sabukko"
+  },
+  {
+    "english": "region",
+    "hadiyyisa": "killila"
+  },
+  {
+    "english": "register",
+    "hadiyyisa": "doonukko"
+  },
+  {
+    "english": "regret",
+    "hadiyyisa": "gaabbukko"
+  },
+  {
+    "english": "relate",
+    "hadiyyisa": "labamukko"
+  },
+  {
+    "english": "relative",
+    "hadiyyisa": "qaro"
+  },
+  {
+    "english": "relax",
+    "hadiyyisa": "chaayukko"
+  },
+  {
+    "english": "release",
+    "hadiyyisa": "fatakkukko"
+  },
+  {
+    "english": "religion",
+    "hadiyyisa": "hayimaanoot"
+  },
+  {
+    "english": "remain",
+    "hadiyyisa": "gatukko"
+  },
+  {
+    "english": "remember",
+    "hadiyyisa": "tiirukko"
+  },
+  {
+    "english": "remind",
+    "hadiyyisa": "sawwissukko"
+  },
+  {
+    "english": "remove",
+    "hadiyyisa": "gosukko"
+  },
+  {
+    "english": "rent",
+    "hadiyyisa": "kera'a"
+  },
+  {
+    "english": "repair",
+    "hadiyyisa": "axisukko"
+  },
+  {
+    "english": "repeat",
+    "hadiyyisa": "edukko"
+  },
+  {
+    "english": "repent",
+    "hadiyyisa": "gaabbukko"
+  },
+  {
+    "english": "reply",
+    "hadiyyisa": "dabarukko"
+  },
+  {
+    "english": "report",
+    "hadiyyisa": "riippoorta"
+  },
+  {
+    "english": "rescue",
+    "hadiyyisa": "gatisukko"
+  },
+  {
+    "english": "research",
+    "hadiyyisa": "saarayyukko"
+  },
+  {
+    "english": "resemble",
+    "hadiyyisa": "labukko"
+  },
+  {
+    "english": "resist",
+    "hadiyyisa": "sabo'o"
+  },
+  {
+    "english": "respect",
+    "hadiyyisa": "hayda"
+  },
+  {
+    "english": "rest",
+    "hadiyyisa": "usheexxukko"
+  },
+  {
+    "english": "restaurant",
+    "hadiyyisa": "hurbaaxxi mine"
+  },
+  {
+    "english": "return",
+    "hadiyyisa": "wo'llukko"
+  },
+  {
+    "english": "reveal",
+    "hadiyyisa": "la'isukko"
+  },
+  {
+    "english": "revenge",
+    "hadiyyisa": "baado"
+  },
+  {
+    "english": "reward",
+    "hadiyyisa": "irifo"
+  },
+  {
+    "english": "rib",
+    "hadiyyisa": "midaado"
+  },
+  {
+    "english": "rice",
+    "hadiyyisa": "ruuz"
+  },
+  {
+    "english": "rich",
+    "hadiyyisa": "goddaancho"
+  },
+  {
+    "english": "riddle",
+    "hadiyyisa": "heesso"
+  },
+  {
+    "english": "ride",
+    "hadiyyisa": "jigisukko"
+  },
+  {
+    "english": "right",
+    "hadiyyisa": "xabbo'o"
+  },
+  {
+    "english": "ring",
+    "hadiyyisa": "quba'a"
+  },
+  {
+    "english": "ripe",
+    "hadiyyisa": "murqukko"
+  },
+  {
+    "english": "rise",
+    "hadiyyisa": "bukkukko"
+  },
+  {
+    "english": "river",
+    "hadiyyisa": "gita"
+  },
+  {
+    "english": "road",
+    "hadiyyisa": "googo"
+  },
+  {
+    "english": "roar",
+    "hadiyyisa": "muunukko"
+  },
+  {
+    "english": "roast",
+    "hadiyyisa": "sarukko"
+  },
+  {
+    "english": "rob",
+    "hadiyyisa": "bogukko"
+  },
+  {
+    "english": "robber",
+    "hadiyyisa": "shifta"
+  },
+  {
+    "english": "rock",
+    "hadiyyisa": "kina"
+  },
+  {
+    "english": "roll",
+    "hadiyyisa": "onkoroollisukko"
+  },
+  {
+    "english": "roof",
+    "hadiyyisa": "meeggara"
+  },
+  {
+    "english": "room",
+    "hadiyyisa": "mine"
+  },
+  {
+    "english": "root",
+    "hadiyyisa": "xapho"
+  },
+  {
+    "english": "rope",
+    "hadiyyisa": "usa"
+  },
+  {
+    "english": "rot",
+    "hadiyyisa": "shamukko"
+  },
+  {
+    "english": "rotten",
+    "hadiyyisa": "shama"
+  },
+  {
+    "english": "rough",
+    "hadiyyisa": "harxaxama"
+  },
+  {
+    "english": "round",
+    "hadiyyisa": "kulullaato"
+  },
+  {
+    "english": "row",
+    "hadiyyisa": "ogora"
+  },
+  {
+    "english": "rub",
+    "hadiyyisa": "cukkukko"
+  },
+  {
+    "english": "rubber",
+    "hadiyyisa": "shafaxa"
+  },
+  {
+    "english": "rude",
+    "hadiyyisa": "baalageechcho"
+  },
+  {
+    "english": "ruin",
+    "hadiyyisa": "gindo'o"
+  },
+  {
+    "english": "rule",
+    "hadiyyisa": "seera"
+  },
+  {
+    "english": "ruler",
+    "hadiyyisa": "ogorsaancho"
+  },
+  {
+    "english": "run",
+    "hadiyyisa": "geerukko"
+  },
+  {
+    "english": "rust",
+    "hadiyyisa": "ci'lla"
+  },
+  {
+    "english": "sack",
+    "hadiyyisa": "joone'e"
+  },
+  {
+    "english": "sacrifice",
+    "hadiyyisa": "kitimukko"
+  },
+  {
+    "english": "sad",
+    "hadiyyisa": "kichche'ukko"
+  },
+  {
+    "english": "saddle",
+    "hadiyyisa": "koora"
+  },
+  {
+    "english": "salary",
+    "hadiyyisa": "damooza"
+  },
+  {
+    "english": "saliva",
+    "hadiyyisa": "tufite"
+  },
+  {
+    "english": "salt",
+    "hadiyyisa": "sooqido"
+  },
+  {
+    "english": "same",
+    "hadiyyisa": "matome"
+  },
+  {
+    "english": "sand",
+    "hadiyyisa": "shashshara"
+  },
+  {
+    "english": "satisfied",
+    "hadiyyisa": "goddukko"
+  },
+  {
+    "english": "save",
+    "hadiyyisa": "gatisukko"
+  },
+  {
+    "english": "say",
+    "hadiyyisa": "yukko"
+  },
+  {
+    "english": "scale",
+    "hadiyyisa": "miizaana"
+  },
+  {
+    "english": "scar",
+    "hadiyyisa": "qoonca"
+  },
+  {
+    "english": "scatter",
+    "hadiyyisa": "fixukko"
+  },
+  {
+    "english": "school",
+    "hadiyyisa": "losa'n mine"
+  },
+  {
+    "english": "science",
+    "hadiyyisa": "saayinsa"
+  },
+  {
+    "english": "scissors",
+    "hadiyyisa": "maqasa"
+  },
+  {
+    "english": "scold",
+    "hadiyyisa": "shaaqukko"
+  },
+  {
+    "english": "scorpion",
+    "hadiyyisa": "tashokkichcho"
+  },
+  {
+    "english": "scratch",
+    "hadiyyisa": "haarukko"
+  },
+  {
+    "english": "scream",
+    "hadiyyisa": "laarukko"
+  },
+  {
+    "english": "sea",
+    "hadiyyisa": "dambalaqa"
+  },
+  {
+    "english": "search",
+    "hadiyyisa": "hasukko"
+  },
+  {
+    "english": "season",
+    "hadiyyisa": "sanna"
+  },
+  {
+    "english": "seat",
+    "hadiyyisa": "afuuchcha"
+  },
+  {
+    "english": "second",
+    "hadiyyisa": "la'mane"
+  },
+  {
+    "english": "secret",
+    "hadiyyisa": "maaxo'o"
+  },
+  {
+    "english": "see",
+    "hadiyyisa": "moo'ukko"
+  },
+  {
+    "english": "seed",
+    "hadiyyisa": "misha"
+  },
+  {
+    "english": "seek",
+    "hadiyyisa": "hasukko"
+  },
+  {
+    "english": "seize",
+    "hadiyyisa": "amadukko"
+  },
+  {
+    "english": "select",
+    "hadiyyisa": "doo'llukko"
+  },
+  {
+    "english": "sell",
+    "hadiyyisa": "biteesukko"
+  },
+  {
+    "english": "send",
+    "hadiyyisa": "asse'ukko"
+  },
+  {
+    "english": "sentence",
+    "hadiyyisa": "woca"
+  },
+  {
+    "english": "separate",
+    "hadiyyisa": "bagaagukko"
+  },
+  {
+    "english": "servant",
+    "hadiyyisa": "awwaadaancho"
+  },
+  {
+    "english": "serve",
+    "hadiyyisa": "awwaadukko"
+  },
+  {
+    "english": "service",
+    "hadiyyisa": "awwaado"
+  },
+  {
+    "english": "seven",
+    "hadiyyisa": "lamara"
+  },
+  {
+    "english": "sew",
+    "hadiyyisa": "gobukko"
+  },
+  {
+    "english": "shade",
+    "hadiyyisa": "hafa"
+  },
+  {
+    "english": "shadow",
+    "hadiyyisa": "hafa"
+  },
+  {
+    "english": "shake",
+    "hadiyyisa": "hurgufukko"
+  },
+  {
+    "english": "shame",
+    "hadiyyisa": "tuulle"
+  },
+  {
+    "english": "share",
+    "hadiyyisa": "baxxansukko"
+  },
+  {
+    "english": "sharp",
+    "hadiyyisa": "siifa"
+  },
+  {
+    "english": "sharpen",
+    "hadiyyisa": "qareesukko"
+  },
+  {
+    "english": "shave",
+    "hadiyyisa": "hogoossukko"
+  },
+  {
+    "english": "she",
+    "hadiyyisa": "ise"
+  },
+  {
+    "english": "sheep",
+    "hadiyyisa": "gereechcho"
+  },
+  {
+    "english": "sheet",
+    "hadiyyisa": "woraqata"
+  },
+  {
+    "english": "shelf",
+    "hadiyyisa": "diidaassaancho"
+  },
+  {
+    "english": "shelter",
+    "hadiyyisa": "tataba"
+  },
+  {
+    "english": "shepherd",
+    "hadiyyisa": "allaaraancho"
+  },
+  {
+    "english": "shield",
+    "hadiyyisa": "agira"
+  },
+  {
+    "english": "shine",
+    "hadiyyisa": "bololukko"
+  },
+  {
+    "english": "ship",
+    "hadiyyisa": "markaba"
+  },
+  {
+    "english": "shirt",
+    "hadiyyisa": "shamiiza"
+  },
+  {
+    "english": "shiver",
+    "hadiyyisa": "huxe'ukko"
+  },
+  {
+    "english": "shoe",
+    "hadiyyisa": "kobe'e"
+  },
+  {
+    "english": "shop",
+    "hadiyyisa": "suuqa"
+  },
+  {
+    "english": "short",
+    "hadiyyisa": "gunda"
+  },
+  {
+    "english": "shoulder",
+    "hadiyyisa": "gudumo"
+  },
+  {
+    "english": "shout",
+    "hadiyyisa": "laarukko"
+  },
+  {
+    "english": "show",
+    "hadiyyisa": "moo'isukko"
+  },
+  {
+    "english": "shut",
+    "hadiyyisa": "xufukko"
+  },
+  {
+    "english": "sick",
+    "hadiyyisa": "xissukko"
+  },
+  {
+    "english": "sickle",
+    "hadiyyisa": "jajjara"
+  },
+  {
+    "english": "side",
+    "hadiyyisa": "kollo"
+  },
+  {
+    "english": "sign",
+    "hadiyyisa": "mare'e"
+  },
+  {
+    "english": "silence",
+    "hadiyyisa": "hisimmaato"
+  },
+  {
+    "english": "silver",
+    "hadiyyisa": "silivara"
+  },
+  {
+    "english": "similar",
+    "hadiyyisa": "laboo"
+  },
+  {
+    "english": "simple",
+    "hadiyyisa": "sholle'aalla"
+  },
+  {
+    "english": "sin",
+    "hadiyyisa": "cubboo"
+  },
+  {
+    "english": "sing",
+    "hadiyyisa": "kadukko"
+  },
+  {
+    "english": "singer",
+    "hadiyyisa": "kadaancho"
+  },
+  {
+    "english": "single",
+    "hadiyyisa": "matandara"
+  },
+  {
+    "english": "sink",
+    "hadiyyisa": "xuuxamukko"
+  },
+  {
+    "english": "sister",
+    "hadiyyisa": "aayya"
+  },
+  {
+    "english": "sit",
+    "hadiyyisa": "afuurukko"
+  },
+  {
+    "english": "situation",
+    "hadiyyisa": "ihoo'isa"
+  },
+  {
+    "english": "six",
+    "hadiyyisa": "loho"
+  },
+  {
+    "english": "skin",
+    "hadiyyisa": "omachcho"
+  },
+  {
+    "english": "skirt",
+    "hadiyyisa": "gurda"
+  },
+  {
+    "english": "skull",
+    "hadiyyisa": "ciqimaato"
+  },
+  {
+    "english": "sky",
+    "hadiyyisa": "iimane"
+  },
+  {
+    "english": "slander",
+    "hadiyyisa": "hamukko"
+  },
+  {
+    "english": "slap",
+    "hadiyyisa": "xabansukko"
+  },
+  {
+    "english": "slaughter",
+    "hadiyyisa": "durukko"
+  },
+  {
+    "english": "slave",
+    "hadiyyisa": "agishsho"
+  },
+  {
+    "english": "sleep",
+    "hadiyyisa": "iinse'ukko"
+  },
+  {
+    "english": "slide",
+    "hadiyyisa": "shurukko"
+  },
+  {
+    "english": "slow",
+    "hadiyyisa": "qaphphukko"
+  },
+  {
+    "english": "small",
+    "hadiyyisa": "hoffi"
+  },
+  {
+    "english": "smart",
+    "hadiyyisa": "faaxuula"
+  },
+  {
+    "english": "smell",
+    "hadiyyisa": "fooshsha"
+  },
+  {
+    "english": "smile",
+    "hadiyyisa": "mishiqukko"
+  },
+  {
+    "english": "smoke",
+    "hadiyyisa": "wuriichcho"
+  },
+  {
+    "english": "smooth",
+    "hadiyyisa": "lenxukko"
+  },
+  {
+    "english": "snail",
+    "hadiyyisa": "qero'o"
+  },
+  {
+    "english": "snake",
+    "hadiyyisa": "hamashshichcho"
+  },
+  {
+    "english": "sneeze",
+    "hadiyyisa": "haxxeshukko"
+  },
+  {
+    "english": "snore",
+    "hadiyyisa": "kororukko"
+  },
+  {
+    "english": "soap",
+    "hadiyyisa": "saamuna"
+  },
+  {
+    "english": "social",
+    "hadiyyisa": "mangatte"
+  },
+  {
+    "english": "soft",
+    "hadiyyisa": "lii'lla"
+  },
+  {
+    "english": "soil",
+    "hadiyyisa": "buchcha"
+  },
+  {
+    "english": "soldier",
+    "hadiyyisa": "wottaddachcho"
+  },
+  {
+    "english": "solid",
+    "hadiyyisa": "gomora"
+  },
+  {
+    "english": "solve",
+    "hadiyyisa": "sholliisukko"
+  },
+  {
+    "english": "son",
+    "hadiyyisa": "beeto"
+  },
+  {
+    "english": "song",
+    "hadiyyisa": "geemmo'o"
+  },
+  {
+    "english": "soon",
+    "hadiyyisa": "qaqqiso"
+  },
+  {
+    "english": "sore",
+    "hadiyyisa": "mada"
+  },
+  {
+    "english": "sorghum",
+    "hadiyyisa": "sarata"
+  },
+  {
+    "english": "soul",
+    "hadiyyisa": "foore"
+  },
+  {
+    "english": "sound",
+    "hadiyyisa": "sagachcho"
+  },
+  {
+    "english": "soup",
+    "hadiyyisa": "shorbo'o"
+  },
+  {
+    "english": "sour",
+    "hadiyyisa": "shiisha"
+  },
+  {
+    "english": "south",
+    "hadiyyisa": "Woroo'n"
+  },
+  {
+    "english": "sow",
+    "hadiyyisa": "wixukko"
+  },
+  {
+    "english": "speak",
+    "hadiyyisa": "wocukko"
+  },
+  {
+    "english": "spear",
+    "hadiyyisa": "bagado"
+  },
+  {
+    "english": "speech",
+    "hadiyyisa": "woca"
+  },
+  {
+    "english": "speed",
+    "hadiyyisa": "qarecha"
+  },
+  {
+    "english": "spider",
+    "hadiyyisa": "idootichcho"
+  },
+  {
+    "english": "spill",
+    "hadiyyisa": "daadukko"
+  },
+  {
+    "english": "spin",
+    "hadiyyisa": "hiddukko"
+  },
+  {
+    "english": "spine",
+    "hadiyyisa": "saassaaro"
+  },
+  {
+    "english": "spirit",
+    "hadiyyisa": "ayyaana"
+  },
+  {
+    "english": "spit",
+    "hadiyyisa": "tufukko"
+  },
+  {
+    "english": "split",
+    "hadiyyisa": "diqukko"
+  },
+  {
+    "english": "spoil",
+    "hadiyyisa": "bi'ukko"
+  },
+  {
+    "english": "spoon",
+    "hadiyyisa": "honqofa"
+  },
+  {
+    "english": "spread",
+    "hadiyyisa": "daqqukko"
+  },
+  {
+    "english": "spring",
+    "hadiyyisa": "bu'o"
+  },
+  {
+    "english": "spy",
+    "hadiyyisa": "sallallukko"
+  },
+  {
+    "english": "square",
+    "hadiyyisa": "iskuweera"
+  },
+  {
+    "english": "stab",
+    "hadiyyisa": "qasukko"
+  },
+  {
+    "english": "stable",
+    "hadiyyisa": "gola"
+  },
+  {
+    "english": "staff",
+    "hadiyyisa": "bicco"
+  },
+  {
+    "english": "stamp",
+    "hadiyyisa": "maataba"
+  },
+  {
+    "english": "stand",
+    "hadiyyisa": "uullukko"
+  },
+  {
+    "english": "star",
+    "hadiyyisa": "boollaanka"
+  },
+  {
+    "english": "start",
+    "hadiyyisa": "jammarukko"
+  },
+  {
+    "english": "starve",
+    "hadiyyisa": "laaquuxamukko"
+  },
+  {
+    "english": "stay",
+    "hadiyyisa": "afuurukko"
+  },
+  {
+    "english": "steal",
+    "hadiyyisa": "agukko"
+  },
+  {
+    "english": "step",
+    "hadiyyisa": "hance'e"
+  },
+  {
+    "english": "stick",
+    "hadiyyisa": "aarada"
+  },
+  {
+    "english": "still",
+    "hadiyyisa": "gaaga'a"
+  },
+  {
+    "english": "sting",
+    "hadiyyisa": "qasukko"
+  },
+  {
+    "english": "stink",
+    "hadiyyisa": "bobukko"
+  },
+  {
+    "english": "stomach",
+    "hadiyyisa": "godabo"
+  },
+  {
+    "english": "stone",
+    "hadiyyisa": "kina"
+  },
+  {
+    "english": "stop",
+    "hadiyyisa": "uullisukko"
+  },
+  {
+    "english": "store",
+    "hadiyyisa": "magaazeena"
+  },
+  {
+    "english": "story",
+    "hadiyyisa": "heesso"
+  },
+  {
+    "english": "stove",
+    "hadiyyisa": "midachcha"
+  },
+  {
+    "english": "straight",
+    "hadiyyisa": "xabbeena"
+  },
+  {
+    "english": "straighten",
+    "hadiyyisa": "haabukko"
+  },
+  {
+    "english": "stranger",
+    "hadiyyisa": "koyyiincho"
+  },
+  {
+    "english": "straw",
+    "hadiyyisa": "cida"
+  },
+  {
+    "english": "strength",
+    "hadiyyisa": "malaayye"
+  },
+  {
+    "english": "strengthen",
+    "hadiyyisa": "gachchukko"
+  },
+  {
+    "english": "stretch",
+    "hadiyyisa": "beddukko"
+  },
+  {
+    "english": "strike",
+    "hadiyyisa": "aphphisukko"
+  },
+  {
+    "english": "string",
+    "hadiyyisa": "musuusa"
+  },
+  {
+    "english": "strong",
+    "hadiyyisa": "qoxara"
+  },
+  {
+    "english": "struggle",
+    "hadiyyisa": "exxamukko"
+  },
+  {
+    "english": "stubborn",
+    "hadiyyisa": "gogukko"
+  },
+  {
+    "english": "student",
+    "hadiyyisa": "losaancho"
+  },
+  {
+    "english": "study",
+    "hadiyyisa": "losano"
+  },
+  {
+    "english": "stumble",
+    "hadiyyisa": "qo'llukko"
+  },
+  {
+    "english": "stupid",
+    "hadiyyisa": "qawwa"
+  },
+  {
+    "english": "subtract",
+    "hadiyyisa": "xa'isukko"
+  },
+  {
+    "english": "succeed",
+    "hadiyyisa": "laaphphukko"
+  },
+  {
+    "english": "suck",
+    "hadiyyisa": "xuuxukko"
+  },
+  {
+    "english": "sudden",
+    "hadiyyisa": "dingatanna"
+  },
+  {
+    "english": "suffer",
+    "hadiyyisa": "hawwukko"
+  },
+  {
+    "english": "sugar",
+    "hadiyyisa": "sukkaara"
+  },
+  {
+    "english": "summer",
+    "hadiyyisa": "hagayye"
+  },
+  {
+    "english": "sun",
+    "hadiyyisa": "eelliincho"
+  },
+  {
+    "english": "support",
+    "hadiyyisa": "tamukko"
+  },
+  {
+    "english": "sure",
+    "hadiyyisa": "yaqiina"
+  },
+  {
+    "english": "surprise",
+    "hadiyyisa": "maalalukko"
+  },
+  {
+    "english": "surround",
+    "hadiyyisa": "kibbukko"
+  },
+  {
+    "english": "suspect",
+    "hadiyyisa": "malukko"
+  },
+  {
+    "english": "swallow",
+    "hadiyyisa": "duuqukko"
+  },
+  {
+    "english": "swamp",
+    "hadiyyisa": "cafa"
+  },
+  {
+    "english": "sweat",
+    "hadiyyisa": "biinca"
+  },
+  {
+    "english": "sweep",
+    "hadiyyisa": "fii'ukko"
+  },
+  {
+    "english": "sweet",
+    "hadiyyisa": "xee'aalla"
+  },
+  {
+    "english": "swell",
+    "hadiyyisa": "dashshukko"
+  },
+  {
+    "english": "swim",
+    "hadiyyisa": "waachchukko"
+  },
+  {
+    "english": "sword",
+    "hadiyyisa": "gorade'e"
+  },
+  {
+    "english": "table",
+    "hadiyyisa": "xaraphpheeza"
+  },
+  {
+    "english": "tail",
+    "hadiyyisa": "ludo"
+  },
+  {
+    "english": "tailor",
+    "hadiyyisa": "gobaancho"
+  },
+  {
+    "english": "take",
+    "hadiyyisa": "aa'ukko"
+  },
+  {
+    "english": "talk",
+    "hadiyyisa": "atoorarukko"
+  },
+  {
+    "english": "tall",
+    "hadiyyisa": "qeeraa'lla"
+  },
+  {
+    "english": "taste",
+    "hadiyyisa": "qammasukko"
+  },
+  {
+    "english": "tax",
+    "hadiyyisa": "gibira"
+  },
+  {
+    "english": "tea",
+    "hadiyyisa": "shaaye"
+  },
+  {
+    "english": "teach",
+    "hadiyyisa": "losisukko"
+  },
+  {
+    "english": "teacher",
+    "hadiyyisa": "losisaancho"
+  },
+  {
+    "english": "tear",
+    "hadiyyisa": "dareerukko"
+  },
+  {
+    "english": "tears",
+    "hadiyyisa": "indiidda"
+  },
+  {
+    "english": "telephone",
+    "hadiyyisa": "telefoona"
+  },
+  {
+    "english": "tell",
+    "hadiyyisa": "kurukko"
+  },
+  {
+    "english": "ten",
+    "hadiyyisa": "tommo"
+  },
+  {
+    "english": "test",
+    "hadiyyisa": "keenukko"
+  },
+  {
+    "english": "testify",
+    "hadiyyisa": "masakkarukko"
+  },
+  {
+    "english": "thank",
+    "hadiyyisa": "galaxxukko"
+  },
+  {
+    "english": "thanks",
+    "hadiyyisa": "galata"
+  },
+  {
+    "english": "that",
+    "hadiyyisa": "ee"
+  },
+  {
+    "english": "theft",
+    "hadiyyisa": "gamo"
+  },
+  {
+    "english": "their",
+    "hadiyyisa": "isso'o"
+  },
+  {
+    "english": "them",
+    "hadiyyisa": "isso'o"
+  },
+  {
+    "english": "then",
+    "hadiyyisa": "lasage"
+  },
+  {
+    "english": "there",
+    "hadiyyisa": "keen"
+  },
+  {
+    "english": "therefore",
+    "hadiyyisa": "eebikkina"
+  },
+  {
+    "english": "thermometer",
+    "hadiyyisa": "termoomeetira"
+  },
+  {
+    "english": "thick",
+    "hadiyyisa": "di'ira"
+  },
+  {
+    "english": "thief",
+    "hadiyyisa": "gamoohane"
+  },
+  {
+    "english": "thigh",
+    "hadiyyisa": "bunkashee"
+  }
+]
